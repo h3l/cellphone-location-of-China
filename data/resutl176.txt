@@ -1,0 +1,10000 @@
+ "phoneno":"17600000001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600010001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600020001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600030001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600040001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600050001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600060001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600070001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600080001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600090001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600100001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600110001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600120001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600130001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600140001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600150001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600160001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600170001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600180001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600190001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600200001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600210001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600220001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600230001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600240001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600250001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600260001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600270001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600280001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600290001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600300001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600310001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600320001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600330001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600340001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600350001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600360001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600370001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600380001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600390001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600400001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600410001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600420001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600430001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600440001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600450001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600460001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600470001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600480001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600490001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600500001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600510001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600520001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600530001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600540001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600550001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600560001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600570001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600580001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600590001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600600001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600610001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600620001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600630001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600640001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600650001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600660001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600670001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600680001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600690001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600700001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600710001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600720001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600730001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600740001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600750001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600760001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600770001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600780001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600790001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600800001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600810001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600820001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600830001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600840001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600850001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600860001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600870001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600880001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600890001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600900001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600910001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600920001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600930001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600940001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600950001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600960001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600970001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600980001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17600990001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601000001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601010001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601020001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601030001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601040001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601050001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601060001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601070001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601080001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601090001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601100001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601110001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601120001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601130001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601140001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601150001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601160001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601170001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601180001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601190001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601200001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17601210001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17601220001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17601230001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17601240001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17601250001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17601260001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17601270001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17601280001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17601290001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17601300001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17601310001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17601320001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17601330001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17601340001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17601350001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17601360001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17601370001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17601380001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17601390001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17601400001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17601410001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17601420001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17601430001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17601440001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17601450001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17601460001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17601470001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17601480001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17601490001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17601500001"  "prov":"江苏"  "city":"无锡"  "type":"中国联通 "
+ "phoneno":"17601510001"  "prov":"江苏"  "city":"无锡"  "type":"中国联通 "
+ "phoneno":"17601520001"  "prov":"江苏"  "city":"南通"  "type":"中国联通 "
+ "phoneno":"17601530001"  "prov":"江苏"  "city":"常州"  "type":"中国联通 "
+ "phoneno":"17601540001"  "prov":"江苏"  "city":"南京"  "type":"中国联通 "
+ "phoneno":"17601550001"  "prov":"江苏"  "city":"南京"  "type":"中国联通 "
+ "phoneno":"17601560001"  "prov":"江苏"  "city":"南京"  "type":"中国联通 "
+ "phoneno":"17601570001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17601580001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17601590001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17601600001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601610001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601620001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601630001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601640001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601650001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601660001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601670001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601680001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601690001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601700001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601710001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601720001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601730001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601740001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601750001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601760001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601770001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601780001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601790001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601800001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601810001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601820001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601830001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601840001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601850001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601860001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601870001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601880001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601890001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601900001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601910001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601920001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601930001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601940001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601950001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601960001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601970001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601980001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17601990001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17602000001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17602010001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17602020001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17602030001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17602040001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17602050001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17602060001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17602070001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17602080001"  "prov":"广东"  "city":"东莞"  "type":"中国联通 "
+ "phoneno":"17602090001"  "prov":"广东"  "city":"东莞"  "type":"中国联通 "
+ "phoneno":"17602100001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17602110001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17602120001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17602130001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17602140001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17602150001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17602160001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17602170001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17602180001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17602190001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17602200001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17602210001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17602220001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17602230001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17602240001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17602250001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17602260001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17602270001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17602280001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17602290001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17602300001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17602310001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17602320001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17602330001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17602340001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17602350001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17602360001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17602370001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17602380001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17602390001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17602400001"  "prov":"辽宁"  "city":"沈阳"  "type":"中国联通 "
+ "phoneno":"17602410001"  "prov":"辽宁"  "city":"沈阳"  "type":"中国联通 "
+ "phoneno":"17602420001"  "prov":"辽宁"  "city":"沈阳"  "type":"中国联通 "
+ "phoneno":"17602430001"  "prov":"辽宁"  "city":"沈阳"  "type":"中国联通 "
+ "phoneno":"17602440001"  "prov":"辽宁"  "city":"沈阳"  "type":"中国联通 "
+ "phoneno":"17602450001"  "prov":"辽宁"  "city":"沈阳"  "type":"中国联通 "
+ "phoneno":"17602460001"  "prov":"辽宁"  "city":"沈阳"  "type":"中国联通 "
+ "phoneno":"17602470001"  "prov":"辽宁"  "city":"沈阳"  "type":"中国联通 "
+ "phoneno":"17602480001"  "prov":"辽宁"  "city":"沈阳"  "type":"中国联通 "
+ "phoneno":"17602490001"  "prov":"辽宁"  "city":"沈阳"  "type":"中国联通 "
+ "phoneno":"17602500001"  "prov":"江苏"  "city":"南京"  "type":"中国联通 "
+ "phoneno":"17602510001"  "prov":"江苏"  "city":"南京"  "type":"中国联通 "
+ "phoneno":"17602520001"  "prov":"江苏"  "city":"南京"  "type":"中国联通 "
+ "phoneno":"17602530001"  "prov":"江苏"  "city":"南京"  "type":"中国联通 "
+ "phoneno":"17602540001"  "prov":"江苏"  "city":"南京"  "type":"中国联通 "
+ "phoneno":"17602550001"  "prov":"江苏"  "city":"南京"  "type":"中国联通 "
+ "phoneno":"17602560001"  "prov":"江苏"  "city":"徐州"  "type":"中国联通 "
+ "phoneno":"17602570001"  "prov":"江苏"  "city":"徐州"  "type":"中国联通 "
+ "phoneno":"17602580001"  "prov":"江苏"  "city":"南通"  "type":"中国联通 "
+ "phoneno":"17602590001"  "prov":"江苏"  "city":"淮安"  "type":"中国联通 "
+ "phoneno":"17602600001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17602610001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17602620001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17602630001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17602640001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17602650001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17602660001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17602670001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17602680001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17602690001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17602700001"  "prov":"湖北"  "city":"武汉"  "type":"中国联通 "
+ "phoneno":"17602710001"  "prov":"湖北"  "city":"武汉"  "type":"中国联通 "
+ "phoneno":"17602720001"  "prov":"湖北"  "city":"武汉"  "type":"中国联通 "
+ "phoneno":"17602730001"  "prov":"湖北"  "city":"武汉"  "type":"中国联通 "
+ "phoneno":"17602740001"  "prov":"湖北"  "city":"武汉"  "type":"中国联通 "
+ "phoneno":"17602750001"  "prov":"湖北"  "city":"武汉"  "type":"中国联通 "
+ "phoneno":"17602760001"  "prov":"湖北"  "city":"武汉"  "type":"中国联通 "
+ "phoneno":"17602770001"  "prov":"湖北"  "city":"武汉"  "type":"中国联通 "
+ "phoneno":"17602780001"  "prov":"湖北"  "city":"武汉"  "type":"中国联通 "
+ "phoneno":"17602790001"  "prov":"湖北"  "city":"武汉"  "type":"中国联通 "
+ "phoneno":"17602800001"  "prov":"四川"  "city":"成都"  "type":"中国联通 "
+ "phoneno":"17602810001"  "prov":"四川"  "city":"成都"  "type":"中国联通 "
+ "phoneno":"17602820001"  "prov":"四川"  "city":"成都"  "type":"中国联通 "
+ "phoneno":"17602830001"  "prov":"四川"  "city":"成都"  "type":"中国联通 "
+ "phoneno":"17602840001"  "prov":"四川"  "city":"成都"  "type":"中国联通 "
+ "phoneno":"17602850001"  "prov":"四川"  "city":"成都"  "type":"中国联通 "
+ "phoneno":"17602860001"  "prov":"四川"  "city":"成都"  "type":"中国联通 "
+ "phoneno":"17602870001"  "prov":"四川"  "city":"成都"  "type":"中国联通 "
+ "phoneno":"17602880001"  "prov":"四川"  "city":"成都"  "type":"中国联通 "
+ "phoneno":"17602890001"  "prov":"四川"  "city":"成都"  "type":"中国联通 "
+ "phoneno":"17602900001"  "prov":"陕西"  "city":"西安"  "type":"中国联通 "
+ "phoneno":"17602910001"  "prov":"陕西"  "city":"西安"  "type":"中国联通 "
+ "phoneno":"17602920001"  "prov":"陕西"  "city":"西安"  "type":"中国联通 "
+ "phoneno":"17602930001"  "prov":"陕西"  "city":"西安"  "type":"中国联通 "
+ "phoneno":"17602940001"  "prov":"陕西"  "city":"西安"  "type":"中国联通 "
+ "phoneno":"17602950001"  "prov":"陕西"  "city":"西安"  "type":"中国联通 "
+ "phoneno":"17602960001"  "prov":"陕西"  "city":"西安"  "type":"中国联通 "
+ "phoneno":"17602970001"  "prov":"陕西"  "city":"西安"  "type":"中国联通 "
+ "phoneno":"17602980001"  "prov":"陕西"  "city":"西安"  "type":"中国联通 "
+ "phoneno":"17602990001"  "prov":"陕西"  "city":"西安"  "type":"中国联通 "
+ "phoneno":"17603000001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17603010001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17603020001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17603030001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17603040001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17603050001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17603060001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17603070001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17603080001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17603090001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17603100001"  "prov":"河北"  "city":"邯郸"  "type":"中国联通 "
+ "phoneno":"17603110001"  "prov":"河北"  "city":"石家庄"  "type":"中国联通 "
+ "phoneno":"17603120001"  "prov":"河北"  "city":"保定"  "type":"中国联通 "
+ "phoneno":"17603130001"  "prov":"河北"  "city":"张家口"  "type":"中国联通 "
+ "phoneno":"17603140001"  "prov":"河北"  "city":"承德"  "type":"中国联通 "
+ "phoneno":"17603150001"  "prov":"河北"  "city":"唐山"  "type":"中国联通 "
+ "phoneno":"17603160001"  "prov":"河北"  "city":"廊坊"  "type":"中国联通 "
+ "phoneno":"17603170001"  "prov":"河北"  "city":"沧州"  "type":"中国联通 "
+ "phoneno":"17603180001"  "prov":"河北"  "city":"衡水"  "type":"中国联通 "
+ "phoneno":"17603190001"  "prov":"河北"  "city":"邢台"  "type":"中国联通 "
+ "phoneno":"17603200001"  "prov":"河北"  "city":"石家庄"  "type":"中国联通 "
+ "phoneno":"17603210001"  "prov":"河北"  "city":"石家庄"  "type":"中国联通 "
+ "phoneno":"17603220001"  "prov":"河北"  "city":"石家庄"  "type":"中国联通 "
+ "phoneno":"17603230001"  "prov":"河北"  "city":"石家庄"  "type":"中国联通 "
+ "phoneno":"17603240001"  "prov":"河北"  "city":"石家庄"  "type":"中国联通 "
+ "phoneno":"17603250001"  "prov":"河北"  "city":"石家庄"  "type":"中国联通 "
+ "phoneno":"17603260001"  "prov":"河北"  "city":"石家庄"  "type":"中国联通 "
+ "phoneno":"17603270001"  "prov":"河北"  "city":"石家庄"  "type":"中国联通 "
+ "phoneno":"17603280001"  "prov":"河北"  "city":"石家庄"  "type":"中国联通 "
+ "phoneno":"17603290001"  "prov":"河北"  "city":"石家庄"  "type":"中国联通 "
+ "phoneno":"17603300001"  "prov":"河北"  "city":"唐山"  "type":"中国联通 "
+ "phoneno":"17603310001"  "prov":"河北"  "city":"唐山"  "type":"中国联通 "
+ "phoneno":"17603320001"  "prov":"河北"  "city":"唐山"  "type":"中国联通 "
+ "phoneno":"17603330001"  "prov":"河北"  "city":"唐山"  "type":"中国联通 "
+ "phoneno":"17603340001"  "prov":"河北"  "city":"唐山"  "type":"中国联通 "
+ "phoneno":"17603350001"  "prov":"河北"  "city":"秦皇岛"  "type":"中国联通 "
+ "phoneno":"17603360001"  "prov":"河北"  "city":"秦皇岛"  "type":"中国联通 "
+ "phoneno":"17603370001"  "prov":"河北"  "city":"秦皇岛"  "type":"中国联通 "
+ "phoneno":"17603380001"  "prov":"河北"  "city":"秦皇岛"  "type":"中国联通 "
+ "phoneno":"17603390001"  "prov":"河北"  "city":"秦皇岛"  "type":"中国联通 "
+ "phoneno":"17603400001"  "prov":"山西"  "city":"忻州"  "type":"中国联通 "
+ "phoneno":"17603410001"  "prov":"山西"  "city":"太原"  "type":"中国联通 "
+ "phoneno":"17603420001"  "prov":"山西"  "city":"大同"  "type":"中国联通 "
+ "phoneno":"17603430001"  "prov":"山西"  "city":"阳泉"  "type":"中国联通 "
+ "phoneno":"17603440001"  "prov":"山西"  "city":"晋中"  "type":"中国联通 "
+ "phoneno":"17603450001"  "prov":"山西"  "city":"长治"  "type":"中国联通 "
+ "phoneno":"17603460001"  "prov":"山西"  "city":"晋城"  "type":"中国联通 "
+ "phoneno":"17603470001"  "prov":"山西"  "city":"临汾"  "type":"中国联通 "
+ "phoneno":"17603480001"  "prov":"山西"  "city":"吕梁"  "type":"中国联通 "
+ "phoneno":"17603490001"  "prov":"山西"  "city":"朔州"  "type":"中国联通 "
+ "phoneno":"17603500001"  "prov":"山西"  "city":"忻州"  "type":"中国联通 "
+ "phoneno":"17603510001"  "prov":"山西"  "city":"太原"  "type":"中国联通 "
+ "phoneno":"17603520001"  "prov":"山西"  "city":"大同"  "type":"中国联通 "
+ "phoneno":"17603530001"  "prov":"山西"  "city":"阳泉"  "type":"中国联通 "
+ "phoneno":"17603540001"  "prov":"山西"  "city":"晋中"  "type":"中国联通 "
+ "phoneno":"17603550001"  "prov":"山西"  "city":"长治"  "type":"中国联通 "
+ "phoneno":"17603560001"  "prov":"山西"  "city":"晋城"  "type":"中国联通 "
+ "phoneno":"17603570001"  "prov":"山西"  "city":"临汾"  "type":"中国联通 "
+ "phoneno":"17603580001"  "prov":"山西"  "city":"吕梁"  "type":"中国联通 "
+ "phoneno":"17603590001"  "prov":"山西"  "city":"运城"  "type":"中国联通 "
+ "phoneno":"17603600001"  "prov":"黑龙江"  "city":"哈尔滨"  "type":"中国联通 "
+ "phoneno":"17603610001"  "prov":"黑龙江"  "city":"哈尔滨"  "type":"中国联通 "
+ "phoneno":"17603620001"  "prov":"黑龙江"  "city":"哈尔滨"  "type":"中国联通 "
+ "phoneno":"17603630001"  "prov":"黑龙江"  "city":"哈尔滨"  "type":"中国联通 "
+ "phoneno":"17603640001"  "prov":"黑龙江"  "city":"哈尔滨"  "type":"中国联通 "
+ "phoneno":"17603650001"  "prov":"黑龙江"  "city":"哈尔滨"  "type":"中国联通 "
+ "phoneno":"17603660001"  "prov":"黑龙江"  "city":"哈尔滨"  "type":"中国联通 "
+ "phoneno":"17603670001"  "prov":"黑龙江"  "city":"哈尔滨"  "type":"中国联通 "
+ "phoneno":"17603680001"  "prov":"黑龙江"  "city":"哈尔滨"  "type":"中国联通 "
+ "phoneno":"17603690001"  "prov":"黑龙江"  "city":"哈尔滨"  "type":"中国联通 "
+ "phoneno":"17603700001"  "prov":"河南"  "city":"商丘"  "type":"中国联通 "
+ "phoneno":"17603710001"  "prov":"河南"  "city":"郑州"  "type":"中国联通 "
+ "phoneno":"17603720001"  "prov":"河南"  "city":"安阳"  "type":"中国联通 "
+ "phoneno":"17603730001"  "prov":"河南"  "city":"新乡"  "type":"中国联通 "
+ "phoneno":"17603740001"  "prov":"河南"  "city":"许昌"  "type":"中国联通 "
+ "phoneno":"17603750001"  "prov":"河南"  "city":"平顶山"  "type":"中国联通 "
+ "phoneno":"17603760001"  "prov":"河南"  "city":"信阳"  "type":"中国联通 "
+ "phoneno":"17603770001"  "prov":"河南"  "city":"南阳"  "type":"中国联通 "
+ "phoneno":"17603780001"  "prov":"河南"  "city":"开封"  "type":"中国联通 "
+ "phoneno":"17603790001"  "prov":"河南"  "city":"洛阳"  "type":"中国联通 "
+ "phoneno":"17603800001"  "prov":"河南"  "city":"鹤壁"  "type":"中国联通 "
+ "phoneno":"17603810001"  "prov":"河南"  "city":"南阳"  "type":"中国联通 "
+ "phoneno":"17603820001"  "prov":"河南"  "city":"开封"  "type":"中国联通 "
+ "phoneno":"17603830001"  "prov":"河南"  "city":"新乡"  "type":"中国联通 "
+ "phoneno":"17603840001"  "prov":"河南"  "city":"郑州"  "type":"中国联通 "
+ "phoneno":"17603850001"  "prov":"河南"  "city":"郑州"  "type":"中国联通 "
+ "phoneno":"17603860001"  "prov":"河南"  "city":"郑州"  "type":"中国联通 "
+ "phoneno":"17603870001"  "prov":"河南"  "city":"郑州"  "type":"中国联通 "
+ "phoneno":"17603880001"  "prov":"河南"  "city":"郑州"  "type":"中国联通 "
+ "phoneno":"17603890001"  "prov":"河南"  "city":"濮阳"  "type":"中国联通 "
+ "phoneno":"17603900001"  "prov":"河南"  "city":"焦作"  "type":"中国联通 "
+ "phoneno":"17603910001"  "prov":"河南"  "city":"焦作"  "type":"中国联通 "
+ "phoneno":"17603920001"  "prov":"河南"  "city":"鹤壁"  "type":"中国联通 "
+ "phoneno":"17603930001"  "prov":"河南"  "city":"濮阳"  "type":"中国联通 "
+ "phoneno":"17603940001"  "prov":"河南"  "city":"周口"  "type":"中国联通 "
+ "phoneno":"17603950001"  "prov":"河南"  "city":"漯河"  "type":"中国联通 "
+ "phoneno":"17603960001"  "prov":"河南"  "city":"驻马店"  "type":"中国联通 "
+ "phoneno":"17603970001"  "prov":"河南"  "city":"洛阳"  "type":"中国联通 "
+ "phoneno":"17603980001"  "prov":"河南"  "city":"三门峡"  "type":"中国联通 "
+ "phoneno":"17603990001"  "prov":"河南"  "city":"洛阳"  "type":"中国联通 "
+ "phoneno":"17604000001"  "prov":"辽宁"  "city":"沈阳"  "type":"中国联通 "
+ "phoneno":"17604010001"  "prov":"辽宁"  "city":"沈阳"  "type":"中国联通 "
+ "phoneno":"17604020001"  "prov":"辽宁"  "city":"沈阳"  "type":"中国联通 "
+ "phoneno":"17604030001"  "prov":"辽宁"  "city":"沈阳"  "type":"中国联通 "
+ "phoneno":"17604040001"  "prov":"辽宁"  "city":"沈阳"  "type":"中国联通 "
+ "phoneno":"17604050001"  "prov":"辽宁"  "city":"沈阳"  "type":"中国联通 "
+ "phoneno":"17604060001"  "prov":"辽宁"  "city":"锦州"  "type":"中国联通 "
+ "phoneno":"17604070001"  "prov":"辽宁"  "city":"营口"  "type":"中国联通 "
+ "phoneno":"17604080001"  "prov":"辽宁"  "city":"大连"  "type":"中国联通 "
+ "phoneno":"17604090001"  "prov":"辽宁"  "city":"大连"  "type":"中国联通 "
+ "phoneno":"17604100001"  "prov":"辽宁"  "city":"铁岭"  "type":"中国联通 "
+ "phoneno":"17604110001"  "prov":"辽宁"  "city":"大连"  "type":"中国联通 "
+ "phoneno":"17604120001"  "prov":"辽宁"  "city":"鞍山"  "type":"中国联通 "
+ "phoneno":"17604130001"  "prov":"辽宁"  "city":"抚顺"  "type":"中国联通 "
+ "phoneno":"17604140001"  "prov":"辽宁"  "city":"本溪"  "type":"中国联通 "
+ "phoneno":"17604150001"  "prov":"辽宁"  "city":"丹东"  "type":"中国联通 "
+ "phoneno":"17604160001"  "prov":"辽宁"  "city":"锦州"  "type":"中国联通 "
+ "phoneno":"17604170001"  "prov":"辽宁"  "city":"营口"  "type":"中国联通 "
+ "phoneno":"17604180001"  "prov":"辽宁"  "city":"阜新"  "type":"中国联通 "
+ "phoneno":"17604190001"  "prov":"辽宁"  "city":"辽阳"  "type":"中国联通 "
+ "phoneno":"17604200001"  "prov":"辽宁"  "city":"鞍山"  "type":"中国联通 "
+ "phoneno":"17604210001"  "prov":"辽宁"  "city":"朝阳"  "type":"中国联通 "
+ "phoneno":"17604220001"  "prov":"辽宁"  "city":"鞍山"  "type":"中国联通 "
+ "phoneno":"17604230001"  "prov":"辽宁"  "city":"抚顺"  "type":"中国联通 "
+ "phoneno":"17604240001"  "prov":"辽宁"  "city":"本溪"  "type":"中国联通 "
+ "phoneno":"17604250001"  "prov":"辽宁"  "city":"丹东"  "type":"中国联通 "
+ "phoneno":"17604260001"  "prov":"辽宁"  "city":"大连"  "type":"中国联通 "
+ "phoneno":"17604270001"  "prov":"辽宁"  "city":"盘锦"  "type":"中国联通 "
+ "phoneno":"17604280001"  "prov":"辽宁"  "city":"大连"  "type":"中国联通 "
+ "phoneno":"17604290001"  "prov":"辽宁"  "city":"葫芦岛"  "type":"中国联通 "
+ "phoneno":"17604300001"  "prov":"吉林"  "city":"长春"  "type":"中国联通 "
+ "phoneno":"17604310001"  "prov":"吉林"  "city":"长春"  "type":"中国联通 "
+ "phoneno":"17604320001"  "prov":""  "city":"吉林"  "type":"中国联通 "
+ "phoneno":"17604330001"  "prov":"吉林"  "city":"延吉"  "type":"中国联通 "
+ "phoneno":"17604340001"  "prov":"吉林"  "city":"四平"  "type":"中国联通 "
+ "phoneno":"17604350001"  "prov":"吉林"  "city":"通化"  "type":"中国联通 "
+ "phoneno":"17604360001"  "prov":"吉林"  "city":"白城"  "type":"中国联通 "
+ "phoneno":"17604370001"  "prov":"吉林"  "city":"辽源"  "type":"中国联通 "
+ "phoneno":"17604380001"  "prov":"吉林"  "city":"松原"  "type":"中国联通 "
+ "phoneno":"17604390001"  "prov":"吉林"  "city":"白山"  "type":"中国联通 "
+ "phoneno":"17604400001"  "prov":"吉林"  "city":"长春"  "type":"中国联通 "
+ "phoneno":"17604410001"  "prov":"吉林"  "city":"长春"  "type":"中国联通 "
+ "phoneno":"17604420001"  "prov":""  "city":"吉林"  "type":"中国联通 "
+ "phoneno":"17604430001"  "prov":"吉林"  "city":"延吉"  "type":"中国联通 "
+ "phoneno":"17604440001"  "prov":"吉林"  "city":"四平"  "type":"中国联通 "
+ "phoneno":"17604450001"  "prov":"吉林"  "city":"通化"  "type":"中国联通 "
+ "phoneno":"17604460001"  "prov":"吉林"  "city":"白城"  "type":"中国联通 "
+ "phoneno":"17604470001"  "prov":"吉林"  "city":"辽源"  "type":"中国联通 "
+ "phoneno":"17604480001"  "prov":"吉林"  "city":"松原"  "type":"中国联通 "
+ "phoneno":"17604490001"  "prov":"吉林"  "city":"白山"  "type":"中国联通 "
+ "phoneno":"17604500001"  "prov":"黑龙江"  "city":"哈尔滨"  "type":"中国联通 "
+ "phoneno":"17604510001"  "prov":"黑龙江"  "city":"哈尔滨"  "type":"中国联通 "
+ "phoneno":"17604520001"  "prov":"黑龙江"  "city":"齐齐哈尔"  "type":"中国联通 "
+ "phoneno":"17604530001"  "prov":"黑龙江"  "city":"牡丹江"  "type":"中国联通 "
+ "phoneno":"17604540001"  "prov":"黑龙江"  "city":"佳木斯"  "type":"中国联通 "
+ "phoneno":"17604550001"  "prov":"黑龙江"  "city":"绥化"  "type":"中国联通 "
+ "phoneno":"17604560001"  "prov":"黑龙江"  "city":"黑河"  "type":"中国联通 "
+ "phoneno":"17604570001"  "prov":"黑龙江"  "city":"大兴安岭"  "type":"中国联通 "
+ "phoneno":"17604580001"  "prov":"黑龙江"  "city":"伊春"  "type":"中国联通 "
+ "phoneno":"17604590001"  "prov":"黑龙江"  "city":"大庆"  "type":"中国联通 "
+ "phoneno":"17604600001"  "prov":"黑龙江"  "city":"哈尔滨"  "type":"中国联通 "
+ "phoneno":"17604610001"  "prov":"黑龙江"  "city":"哈尔滨"  "type":"中国联通 "
+ "phoneno":"17604620001"  "prov":"黑龙江"  "city":"齐齐哈尔"  "type":"中国联通 "
+ "phoneno":"17604630001"  "prov":"黑龙江"  "city":"佳木斯"  "type":"中国联通 "
+ "phoneno":"17604640001"  "prov":"黑龙江"  "city":"七台河"  "type":"中国联通 "
+ "phoneno":"17604650001"  "prov":"黑龙江"  "city":"大庆"  "type":"中国联通 "
+ "phoneno":"17604660001"  "prov":"黑龙江"  "city":"哈尔滨"  "type":"中国联通 "
+ "phoneno":"17604670001"  "prov":"黑龙江"  "city":"鸡西"  "type":"中国联通 "
+ "phoneno":"17604680001"  "prov":"黑龙江"  "city":"鹤岗"  "type":"中国联通 "
+ "phoneno":"17604690001"  "prov":"黑龙江"  "city":"双鸭山"  "type":"中国联通 "
+ "phoneno":"17604700001"  "prov":"内蒙古"  "city":"呼伦贝尔"  "type":"中国联通 "
+ "phoneno":"17604710001"  "prov":"内蒙古"  "city":"呼和浩特"  "type":"中国联通 "
+ "phoneno":"17604720001"  "prov":"内蒙古"  "city":"包头"  "type":"中国联通 "
+ "phoneno":"17604730001"  "prov":"内蒙古"  "city":"乌海"  "type":"中国联通 "
+ "phoneno":"17604740001"  "prov":"内蒙古"  "city":"乌兰察布"  "type":"中国联通 "
+ "phoneno":"17604750001"  "prov":"内蒙古"  "city":"通辽"  "type":"中国联通 "
+ "phoneno":"17604760001"  "prov":"内蒙古"  "city":"赤峰"  "type":"中国联通 "
+ "phoneno":"17604770001"  "prov":"内蒙古"  "city":"鄂尔多斯"  "type":"中国联通 "
+ "phoneno":"17604780001"  "prov":"内蒙古"  "city":"巴彦淖尔"  "type":"中国联通 "
+ "phoneno":"17604790001"  "prov":"内蒙古"  "city":"锡林浩特"  "type":"中国联通 "
+ "phoneno":"17604800001"  "prov":"内蒙古"  "city":"阿拉善盟"  "type":"中国联通 "
+ "phoneno":"17604810001"  "prov":"内蒙古"  "city":"呼和浩特"  "type":"中国联通 "
+ "phoneno":"17604820001"  "prov":"内蒙古"  "city":"兴安盟"  "type":"中国联通 "
+ "phoneno":"17604830001"  "prov":"内蒙古"  "city":"阿拉善盟"  "type":"中国联通 "
+ "phoneno":"17604840001"  "prov":"内蒙古"  "city":"呼和浩特"  "type":"中国联通 "
+ "phoneno":"17604850001"  "prov":"内蒙古"  "city":"兴安盟"  "type":"中国联通 "
+ "phoneno":"17604860001"  "prov":"内蒙古"  "city":"赤峰"  "type":"中国联通 "
+ "phoneno":"17604870001"  "prov":"内蒙古"  "city":"鄂尔多斯"  "type":"中国联通 "
+ "phoneno":"17604880001"  "prov":"内蒙古"  "city":"呼和浩特"  "type":"中国联通 "
+ "phoneno":"17604890001"  "prov":"内蒙古"  "city":"包头"  "type":"中国联通 "
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ "phoneno":"17605000001"  "prov":"福建"  "city":"福州"  "type":"中国联通 "
+ "phoneno":"17605010001"  "prov":"福建"  "city":"福州"  "type":"中国联通 "
+ "phoneno":"17605020001"  "prov":"福建"  "city":"福州"  "type":"中国联通 "
+ "phoneno":"17605030001"  "prov":"福建"  "city":"福州"  "type":"中国联通 "
+ "phoneno":"17605040001"  "prov":"福建"  "city":"龙岩"  "type":"中国联通 "
+ "phoneno":"17605050001"  "prov":"福建"  "city":"厦门"  "type":"中国联通 "
+ "phoneno":"17605060001"  "prov":"福建"  "city":"厦门"  "type":"中国联通 "
+ "phoneno":"17605070001"  "prov":"福建"  "city":"厦门"  "type":"中国联通 "
+ "phoneno":"17605080001"  "prov":"福建"  "city":"厦门"  "type":"中国联通 "
+ "phoneno":"17605090001"  "prov":"福建"  "city":"厦门"  "type":"中国联通 "
+ "phoneno":"17605100001"  "prov":"江苏"  "city":"无锡"  "type":"中国联通 "
+ "phoneno":"17605110001"  "prov":"江苏"  "city":"镇江"  "type":"中国联通 "
+ "phoneno":"17605120001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17605130001"  "prov":"江苏"  "city":"南通"  "type":"中国联通 "
+ "phoneno":"17605140001"  "prov":"江苏"  "city":"扬州"  "type":"中国联通 "
+ "phoneno":"17605150001"  "prov":"江苏"  "city":"盐城"  "type":"中国联通 "
+ "phoneno":"17605160001"  "prov":"江苏"  "city":"徐州"  "type":"中国联通 "
+ "phoneno":"17605170001"  "prov":"江苏"  "city":"淮安"  "type":"中国联通 "
+ "phoneno":"17605180001"  "prov":"江苏"  "city":"连云港"  "type":"中国联通 "
+ "phoneno":"17605190001"  "prov":"江苏"  "city":"常州"  "type":"中国联通 "
+ "phoneno":"17605200001"  "prov":"江苏"  "city":"徐州"  "type":"中国联通 "
+ "phoneno":"17605210001"  "prov":"江苏"  "city":"镇江"  "type":"中国联通 "
+ "phoneno":"17605220001"  "prov":"江苏"  "city":"泰州"  "type":"中国联通 "
+ "phoneno":"17605230001"  "prov":"江苏"  "city":"泰州"  "type":"中国联通 "
+ "phoneno":"17605240001"  "prov":"江苏"  "city":"连云港"  "type":"中国联通 "
+ "phoneno":"17605250001"  "prov":"江苏"  "city":"盐城"  "type":"中国联通 "
+ "phoneno":"17605260001"  "prov":"江苏"  "city":"宿迁"  "type":"中国联通 "
+ "phoneno":"17605270001"  "prov":"江苏"  "city":"宿迁"  "type":"中国联通 "
+ "phoneno":"17605280001"  "prov":"江苏"  "city":"扬州"  "type":"中国联通 "
+ "phoneno":"17605290001"  "prov":"江苏"  "city":"常州"  "type":"中国联通 "
+ "phoneno":"17605300001"  "prov":"山东"  "city":"菏泽"  "type":"中国联通 "
+ "phoneno":"17605310001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17605320001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17605330001"  "prov":"山东"  "city":"淄博"  "type":"中国联通 "
+ "phoneno":"17605340001"  "prov":"山东"  "city":"德州"  "type":"中国联通 "
+ "phoneno":"17605350001"  "prov":"山东"  "city":"烟台"  "type":"中国联通 "
+ "phoneno":"17605360001"  "prov":"山东"  "city":"潍坊"  "type":"中国联通 "
+ "phoneno":"17605370001"  "prov":"山东"  "city":"济宁"  "type":"中国联通 "
+ "phoneno":"17605380001"  "prov":"山东"  "city":"泰安"  "type":"中国联通 "
+ "phoneno":"17605390001"  "prov":"山东"  "city":"临沂"  "type":"中国联通 "
+ "phoneno":"17605400001"  "prov":"山东"  "city":"菏泽"  "type":"中国联通 "
+ "phoneno":"17605410001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17605420001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17605430001"  "prov":"山东"  "city":"滨州"  "type":"中国联通 "
+ "phoneno":"17605440001"  "prov":"山东"  "city":"德州"  "type":"中国联通 "
+ "phoneno":"17605450001"  "prov":"山东"  "city":"烟台"  "type":"中国联通 "
+ "phoneno":"17605460001"  "prov":"山东"  "city":"东营"  "type":"中国联通 "
+ "phoneno":"17605470001"  "prov":"山东"  "city":"济宁"  "type":"中国联通 "
+ "phoneno":"17605480001"  "prov":"山东"  "city":"泰安"  "type":"中国联通 "
+ "phoneno":"17605490001"  "prov":"山东"  "city":"临沂"  "type":"中国联通 "
+ "phoneno":"17605500001"  "prov":"安徽"  "city":"滁州"  "type":"中国联通 "
+ "phoneno":"17605510001"  "prov":"安徽"  "city":"合肥"  "type":"中国联通 "
+ "phoneno":"17605520001"  "prov":"安徽"  "city":"蚌埠"  "type":"中国联通 "
+ "phoneno":"17605530001"  "prov":"安徽"  "city":"芜湖"  "type":"中国联通 "
+ "phoneno":"17605540001"  "prov":"安徽"  "city":"淮南"  "type":"中国联通 "
+ "phoneno":"17605550001"  "prov":"安徽"  "city":"马鞍山"  "type":"中国联通 "
+ "phoneno":"17605560001"  "prov":"安徽"  "city":"安庆"  "type":"中国联通 "
+ "phoneno":"17605570001"  "prov":"安徽"  "city":"宿州"  "type":"中国联通 "
+ "phoneno":"17605580001"  "prov":"安徽"  "city":"阜阳"  "type":"中国联通 "
+ "phoneno":"17605590001"  "prov":"安徽"  "city":"黄山"  "type":"中国联通 "
+ "phoneno":"17605600001"  "prov":"安徽"  "city":"合肥"  "type":"中国联通 "
+ "phoneno":"17605610001"  "prov":"安徽"  "city":"淮北"  "type":"中国联通 "
+ "phoneno":"17605620001"  "prov":"安徽"  "city":"铜陵"  "type":"中国联通 "
+ "phoneno":"17605630001"  "prov":"安徽"  "city":"宣城"  "type":"中国联通 "
+ "phoneno":"17605640001"  "prov":"安徽"  "city":"六安"  "type":"中国联通 "
+ "phoneno":"17605650001"  "prov":"安徽"  "city":"合肥"  "type":"中国联通 "
+ "phoneno":"17605660001"  "prov":"安徽"  "city":"池州"  "type":"中国联通 "
+ "phoneno":"17605670001"  "prov":"安徽"  "city":"宿州"  "type":"中国联通 "
+ "phoneno":"17605680001"  "prov":"安徽"  "city":"亳州"  "type":"中国联通 "
+ "phoneno":"17605690001"  "prov":"安徽"  "city":"合肥"  "type":"中国联通 "
+ "phoneno":"17605700001"  "prov":"浙江"  "city":"衢州"  "type":"中国联通 "
+ "phoneno":"17605710001"  "prov":"浙江"  "city":"杭州"  "type":"中国联通 "
+ "phoneno":"17605720001"  "prov":"浙江"  "city":"湖州"  "type":"中国联通 "
+ "phoneno":"17605730001"  "prov":"浙江"  "city":"嘉兴"  "type":"中国联通 "
+ "phoneno":"17605740001"  "prov":"浙江"  "city":"宁波"  "type":"中国联通 "
+ "phoneno":"17605750001"  "prov":"浙江"  "city":"绍兴"  "type":"中国联通 "
+ "phoneno":"17605760001"  "prov":"浙江"  "city":"台州"  "type":"中国联通 "
+ "phoneno":"17605770001"  "prov":"浙江"  "city":"温州"  "type":"中国联通 "
+ "phoneno":"17605780001"  "prov":"浙江"  "city":"丽水"  "type":"中国联通 "
+ "phoneno":"17605790001"  "prov":"浙江"  "city":"金华"  "type":"中国联通 "
+ "phoneno":"17605800001"  "prov":"浙江"  "city":"舟山"  "type":"中国联通 "
+ "phoneno":"17605810001"  "prov":"浙江"  "city":"杭州"  "type":"中国联通 "
+ "phoneno":"17605820001"  "prov":"浙江"  "city":"湖州"  "type":"中国联通 "
+ "phoneno":"17605830001"  "prov":"浙江"  "city":"嘉兴"  "type":"中国联通 "
+ "phoneno":"17605840001"  "prov":"浙江"  "city":"宁波"  "type":"中国联通 "
+ "phoneno":"17605850001"  "prov":"浙江"  "city":"绍兴"  "type":"中国联通 "
+ "phoneno":"17605860001"  "prov":"浙江"  "city":"台州"  "type":"中国联通 "
+ "phoneno":"17605870001"  "prov":"浙江"  "city":"温州"  "type":"中国联通 "
+ "phoneno":"17605880001"  "prov":"浙江"  "city":"杭州"  "type":"中国联通 "
+ "phoneno":"17605890001"  "prov":"浙江"  "city":"金华"  "type":"中国联通 "
+ "phoneno":"17605900001"  "prov":"福建"  "city":"福州"  "type":"中国联通 "
+ "phoneno":"17605910001"  "prov":"福建"  "city":"福州"  "type":"中国联通 "
+ "phoneno":"17605920001"  "prov":"福建"  "city":"厦门"  "type":"中国联通 "
+ "phoneno":"17605930001"  "prov":"福建"  "city":"宁德"  "type":"中国联通 "
+ "phoneno":"17605940001"  "prov":"福建"  "city":"莆田"  "type":"中国联通 "
+ "phoneno":"17605950001"  "prov":"福建"  "city":"泉州"  "type":"中国联通 "
+ "phoneno":"17605960001"  "prov":"福建"  "city":"漳州"  "type":"中国联通 "
+ "phoneno":"17605970001"  "prov":"福建"  "city":"龙岩"  "type":"中国联通 "
+ "phoneno":"17605980001"  "prov":"福建"  "city":"三明"  "type":"中国联通 "
+ "phoneno":"17605990001"  "prov":"福建"  "city":"南平"  "type":"中国联通 "
+ "phoneno":"17606000001"  "prov":"福建"  "city":"泉州"  "type":"中国联通 "
+ "phoneno":"17606010001"  "prov":"福建"  "city":"泉州"  "type":"中国联通 "
+ "phoneno":"17606020001"  "prov":"福建"  "city":"泉州"  "type":"中国联通 "
+ "phoneno":"17606030001"  "prov":"福建"  "city":"泉州"  "type":"中国联通 "
+ "phoneno":"17606040001"  "prov":"福建"  "city":"宁德"  "type":"中国联通 "
+ "phoneno":"17606050001"  "prov":"福建"  "city":"漳州"  "type":"中国联通 "
+ "phoneno":"17606060001"  "prov":"福建"  "city":"漳州"  "type":"中国联通 "
+ "phoneno":"17606070001"  "prov":"福建"  "city":"福州"  "type":"中国联通 "
+ "phoneno":"17606080001"  "prov":"福建"  "city":"三明"  "type":"中国联通 "
+ "phoneno":"17606090001"  "prov":"福建"  "city":"三明"  "type":"中国联通 "
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ "phoneno":"17606200001"  "prov":"山东"  "city":"日照"  "type":"中国联通 "
+ "phoneno":"17606210001"  "prov":"山东"  "city":"聊城"  "type":"中国联通 "
+ "phoneno":"17606220001"  "prov":"山东"  "city":"聊城"  "type":"中国联通 "
+ "phoneno":"17606230001"  "prov":"山东"  "city":"聊城"  "type":"中国联通 "
+ "phoneno":"17606240001"  "prov":"山东"  "city":"威海"  "type":"中国联通 "
+ "phoneno":"17606250001"  "prov":"山东"  "city":"威海"  "type":"中国联通 "
+ "phoneno":"17606260001"  "prov":"山东"  "city":"威海"  "type":"中国联通 "
+ "phoneno":"17606270001"  "prov":"山东"  "city":"威海"  "type":"中国联通 "
+ "phoneno":"17606280001"  "prov":"山东"  "city":"枣庄"  "type":"中国联通 "
+ "phoneno":"17606290001"  "prov":"山东"  "city":"枣庄"  "type":"中国联通 "
+ "phoneno":"17606300001"  "prov":"山东"  "city":"威海"  "type":"中国联通 "
+ "phoneno":"17606310001"  "prov":"山东"  "city":"威海"  "type":"中国联通 "
+ "phoneno":"17606320001"  "prov":"山东"  "city":"枣庄"  "type":"中国联通 "
+ "phoneno":"17606330001"  "prov":"山东"  "city":"日照"  "type":"中国联通 "
+ "phoneno":"17606340001"  "prov":"山东"  "city":"莱芜"  "type":"中国联通 "
+ "phoneno":"17606350001"  "prov":"山东"  "city":"聊城"  "type":"中国联通 "
+ "phoneno":"17606360001"  "prov":"山东"  "city":"潍坊"  "type":"中国联通 "
+ "phoneno":"17606370001"  "prov":"山东"  "city":"枣庄"  "type":"中国联通 "
+ "phoneno":"17606380001"  "prov":"山东"  "city":"烟台"  "type":"中国联通 "
+ "phoneno":"17606390001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17606400001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17606410001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17606420001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17606430001"  "prov":"山东"  "city":"淄博"  "type":"中国联通 "
+ "phoneno":"17606440001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17606450001"  "prov":"山东"  "city":"烟台"  "type":"中国联通 "
+ "phoneno":"17606460001"  "prov":"山东"  "city":"潍坊"  "type":"中国联通 "
+ "phoneno":"17606470001"  "prov":"山东"  "city":"东营"  "type":"中国联通 "
+ "phoneno":"17606480001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17606490001"  "prov":"山东"  "city":"滨州"  "type":"中国联通 "
+ "phoneno":"17606500001"  "prov":"浙江"  "city":"杭州"  "type":"中国联通 "
+ "phoneno":"17606510001"  "prov":"浙江"  "city":"杭州"  "type":"中国联通 "
+ "phoneno":"17606520001"  "prov":"浙江"  "city":"杭州"  "type":"中国联通 "
+ "phoneno":"17606530001"  "prov":"浙江"  "city":"杭州"  "type":"中国联通 "
+ "phoneno":"17606540001"  "prov":"浙江"  "city":"杭州"  "type":"中国联通 "
+ "phoneno":"17606550001"  "prov":"浙江"  "city":"宁波"  "type":"中国联通 "
+ "phoneno":"17606560001"  "prov":"浙江"  "city":"宁波"  "type":"中国联通 "
+ "phoneno":"17606570001"  "prov":"浙江"  "city":"宁波"  "type":"中国联通 "
+ "phoneno":"17606580001"  "prov":"浙江"  "city":"宁波"  "type":"中国联通 "
+ "phoneno":"17606590001"  "prov":"浙江"  "city":"宁波"  "type":"中国联通 "
+ "phoneno":"17606600001"  "prov":"广东"  "city":"汕尾"  "type":"中国联通 "
+ "phoneno":"17606610001"  "prov":"广东"  "city":"东莞"  "type":"中国联通 "
+ "phoneno":"17606620001"  "prov":"广东"  "city":"阳江"  "type":"中国联通 "
+ "phoneno":"17606630001"  "prov":"广东"  "city":"揭阳"  "type":"中国联通 "
+ "phoneno":"17606640001"  "prov":"广东"  "city":"佛山"  "type":"中国联通 "
+ "phoneno":"17606650001"  "prov":"广东"  "city":"佛山"  "type":"中国联通 "
+ "phoneno":"17606660001"  "prov":"广东"  "city":"佛山"  "type":"中国联通 "
+ "phoneno":"17606670001"  "prov":"广东"  "city":"佛山"  "type":"中国联通 "
+ "phoneno":"17606680001"  "prov":"广东"  "city":"茂名"  "type":"中国联通 "
+ "phoneno":"17606690001"  "prov":"广东"  "city":"东莞"  "type":"中国联通 "
+ "phoneno":"17606700001"  "prov":"浙江"  "city":"衢州"  "type":"中国联通 "
+ "phoneno":"17606710001"  "prov":"浙江"  "city":"杭州"  "type":"中国联通 "
+ "phoneno":"17606720001"  "prov":"浙江"  "city":"湖州"  "type":"中国联通 "
+ "phoneno":"17606730001"  "prov":"浙江"  "city":"嘉兴"  "type":"中国联通 "
+ "phoneno":"17606740001"  "prov":"浙江"  "city":"宁波"  "type":"中国联通 "
+ "phoneno":"17606750001"  "prov":"浙江"  "city":"绍兴"  "type":"中国联通 "
+ "phoneno":"17606760001"  "prov":"浙江"  "city":"台州"  "type":"中国联通 "
+ "phoneno":"17606770001"  "prov":"浙江"  "city":"温州"  "type":"中国联通 "
+ "phoneno":"17606780001"  "prov":"浙江"  "city":"丽水"  "type":"中国联通 "
+ "phoneno":"17606790001"  "prov":"浙江"  "city":"金华"  "type":"中国联通 "
+ "phoneno":"17606800001"  "prov":"浙江"  "city":"舟山"  "type":"中国联通 "
+ "phoneno":"17606810001"  "prov":"浙江"  "city":"宁波"  "type":"中国联通 "
+ "phoneno":"17606820001"  "prov":"浙江"  "city":"宁波"  "type":"中国联通 "
+ "phoneno":"17606830001"  "prov":"浙江"  "city":"宁波"  "type":"中国联通 "
+ "phoneno":"17606840001"  "prov":"浙江"  "city":"宁波"  "type":"中国联通 "
+ "phoneno":"17606850001"  "prov":"浙江"  "city":"宁波"  "type":"中国联通 "
+ "phoneno":"17606860001"  "prov":"浙江"  "city":"宁波"  "type":"中国联通 "
+ "phoneno":"17606870001"  "prov":"浙江"  "city":"宁波"  "type":"中国联通 "
+ "phoneno":"17606880001"  "prov":"浙江"  "city":"宁波"  "type":"中国联通 "
+ "phoneno":"17606890001"  "prov":"浙江"  "city":"宁波"  "type":"中国联通 "
+ "phoneno":"17606900001"  "prov":"云南"  "city":"昆明"  "type":"中国联通 "
+ "phoneno":"17606910001"  "prov":"云南"  "city":"西双版纳"  "type":"中国联通 "
+ "phoneno":"17606920001"  "prov":"云南"  "city":"德宏"  "type":"中国联通 "
+ "phoneno":"17606930001"  "prov":"云南"  "city":"西双版纳"  "type":"中国联通 "
+ "phoneno":"17606940001"  "prov":"云南"  "city":"丽江"  "type":"中国联通 "
+ "phoneno":"17606950001"  "prov":"云南"  "city":"德宏"  "type":"中国联通 "
+ "phoneno":"17606960001"  "prov":"云南"  "city":"昆明"  "type":"中国联通 "
+ "phoneno":"17606970001"  "prov":"云南"  "city":"昆明"  "type":"中国联通 "
+ "phoneno":"17606980001"  "prov":"云南"  "city":"昆明"  "type":"中国联通 "
+ "phoneno":"17606990001"  "prov":"云南"  "city":"昆明"  "type":"中国联通 "
+ "phoneno":"17607000001"  "prov":"江西"  "city":"南昌"  "type":"中国联通 "
+ "phoneno":"17607010001"  "prov":"江西"  "city":"鹰潭"  "type":"中国联通 "
+ "phoneno":"17607020001"  "prov":"江西"  "city":"九江"  "type":"中国联通 "
+ "phoneno":"17607030001"  "prov":"江西"  "city":"上饶"  "type":"中国联通 "
+ "phoneno":"17607040001"  "prov":"江西"  "city":"抚州"  "type":"中国联通 "
+ "phoneno":"17607050001"  "prov":"江西"  "city":"宜春"  "type":"中国联通 "
+ "phoneno":"17607060001"  "prov":"江西"  "city":"吉安"  "type":"中国联通 "
+ "phoneno":"17607070001"  "prov":"江西"  "city":"赣州"  "type":"中国联通 "
+ "phoneno":"17607080001"  "prov":"江西"  "city":"南昌"  "type":"中国联通 "
+ "phoneno":"17607090001"  "prov":"江西"  "city":"南昌"  "type":"中国联通 "
+ "phoneno":"17607100001"  "prov":"湖北"  "city":"武汉"  "type":"中国联通 "
+ "phoneno":"17607110001"  "prov":"湖北"  "city":"武汉"  "type":"中国联通 "
+ "phoneno":"17607120001"  "prov":"湖北"  "city":"武汉"  "type":"中国联通 "
+ "phoneno":"17607130001"  "prov":"湖北"  "city":"武汉"  "type":"中国联通 "
+ "phoneno":"17607140001"  "prov":"湖北"  "city":"武汉"  "type":"中国联通 "
+ "phoneno":"17607150001"  "prov":"湖北"  "city":"武汉"  "type":"中国联通 "
+ "phoneno":"17607160001"  "prov":"湖北"  "city":"武汉"  "type":"中国联通 "
+ "phoneno":"17607170001"  "prov":"湖北"  "city":"武汉"  "type":"中国联通 "
+ "phoneno":"17607180001"  "prov":"湖北"  "city":"武汉"  "type":"中国联通 "
+ "phoneno":"17607190001"  "prov":"湖北"  "city":"武汉"  "type":"中国联通 "
+ "phoneno":"17607200001"  "prov":"湖北"  "city":"宜昌"  "type":"中国联通 "
+ "phoneno":"17607210001"  "prov":"湖北"  "city":"荆州"  "type":"中国联通 "
+ "phoneno":"17607220001"  "prov":"湖北"  "city":"江汉"  "type":"中国联通 "
+ "phoneno":"17607230001"  "prov":"湖北"  "city":"黄石"  "type":"中国联通 "
+ "phoneno":"17607240001"  "prov":"湖北"  "city":"咸宁"  "type":"中国联通 "
+ "phoneno":"17607250001"  "prov":"湖北"  "city":"黄冈"  "type":"中国联通 "
+ "phoneno":"17607260001"  "prov":"湖北"  "city":"恩施"  "type":"中国联通 "
+ "phoneno":"17607270001"  "prov":"湖北"  "city":"襄阳"  "type":"中国联通 "
+ "phoneno":"17607280001"  "prov":"湖北"  "city":"十堰"  "type":"中国联通 "
+ "phoneno":"17607290001"  "prov":"湖北"  "city":"孝感"  "type":"中国联通 "
+ "phoneno":"17607300001"  "prov":"湖南"  "city":"岳阳"  "type":"中国联通 "
+ "phoneno":"17607310001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17607320001"  "prov":"湖南"  "city":"湘潭"  "type":"中国联通 "
+ "phoneno":"17607330001"  "prov":"湖南"  "city":"株洲"  "type":"中国联通 "
+ "phoneno":"17607340001"  "prov":"湖南"  "city":"衡阳"  "type":"中国联通 "
+ "phoneno":"17607350001"  "prov":"湖南"  "city":"郴州"  "type":"中国联通 "
+ "phoneno":"17607360001"  "prov":"湖南"  "city":"常德"  "type":"中国联通 "
+ "phoneno":"17607370001"  "prov":"湖南"  "city":"益阳"  "type":"中国联通 "
+ "phoneno":"17607380001"  "prov":"湖南"  "city":"娄底"  "type":"中国联通 "
+ "phoneno":"17607390001"  "prov":"湖南"  "city":"邵阳"  "type":"中国联通 "
+ "phoneno":"17607400001"  "prov":"湖南"  "city":"岳阳"  "type":"中国联通 "
+ "phoneno":"17607410001"  "prov":"湖南"  "city":"株洲"  "type":"中国联通 "
+ "phoneno":"17607420001"  "prov":"湖南"  "city":"常德"  "type":"中国联通 "
+ "phoneno":"17607430001"  "prov":"湖南"  "city":"吉首"  "type":"中国联通 "
+ "phoneno":"17607440001"  "prov":"湖南"  "city":"张家界"  "type":"中国联通 "
+ "phoneno":"17607450001"  "prov":"湖南"  "city":"怀化"  "type":"中国联通 "
+ "phoneno":"17607460001"  "prov":"湖南"  "city":"永州"  "type":"中国联通 "
+ "phoneno":"17607470001"  "prov":"湖南"  "city":"衡阳"  "type":"中国联通 "
+ "phoneno":"17607480001"  "prov":"湖南"  "city":"怀化"  "type":"中国联通 "
+ "phoneno":"17607490001"  "prov":"湖南"  "city":"永州"  "type":"中国联通 "
+ "phoneno":"17607500001"  "prov":"广东"  "city":"江门"  "type":"中国联通 "
+ "phoneno":"17607510001"  "prov":"广东"  "city":"韶关"  "type":"中国联通 "
+ "phoneno":"17607520001"  "prov":"广东"  "city":"惠州"  "type":"中国联通 "
+ "phoneno":"17607530001"  "prov":"广东"  "city":"梅州"  "type":"中国联通 "
+ "phoneno":"17607540001"  "prov":"广东"  "city":"汕头"  "type":"中国联通 "
+ "phoneno":"17607550001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17607560001"  "prov":"广东"  "city":"珠海"  "type":"中国联通 "
+ "phoneno":"17607570001"  "prov":"广东"  "city":"佛山"  "type":"中国联通 "
+ "phoneno":"17607580001"  "prov":"广东"  "city":"肇庆"  "type":"中国联通 "
+ "phoneno":"17607590001"  "prov":"广东"  "city":"湛江"  "type":"中国联通 "
+ "phoneno":"17607600001"  "prov":"广东"  "city":"中山"  "type":"中国联通 "
+ "phoneno":"17607610001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17607620001"  "prov":"广东"  "city":"河源"  "type":"中国联通 "
+ "phoneno":"17607630001"  "prov":"广东"  "city":"清远"  "type":"中国联通 "
+ "phoneno":"17607640001"  "prov":"广东"  "city":"东莞"  "type":"中国联通 "
+ "phoneno":"17607650001"  "prov":"广东"  "city":"东莞"  "type":"中国联通 "
+ "phoneno":"17607660001"  "prov":"广东"  "city":"云浮"  "type":"中国联通 "
+ "phoneno":"17607670001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17607680001"  "prov":"广东"  "city":"潮州"  "type":"中国联通 "
+ "phoneno":"17607690001"  "prov":"广东"  "city":"东莞"  "type":"中国联通 "
+ "phoneno":"17607700001"  "prov":"广西"  "city":"防城港"  "type":"中国联通 "
+ "phoneno":"17607710001"  "prov":"广西"  "city":"南宁"  "type":"中国联通 "
+ "phoneno":"17607720001"  "prov":"广西"  "city":"柳州"  "type":"中国联通 "
+ "phoneno":"17607730001"  "prov":"广西"  "city":"桂林"  "type":"中国联通 "
+ "phoneno":"17607740001"  "prov":"广西"  "city":"梧州"  "type":"中国联通 "
+ "phoneno":"17607750001"  "prov":"广西"  "city":"玉林"  "type":"中国联通 "
+ "phoneno":"17607760001"  "prov":"广西"  "city":"百色"  "type":"中国联通 "
+ "phoneno":"17607770001"  "prov":"广西"  "city":"钦州"  "type":"中国联通 "
+ "phoneno":"17607780001"  "prov":"广西"  "city":"河池"  "type":"中国联通 "
+ "phoneno":"17607790001"  "prov":"广西"  "city":"北海"  "type":"中国联通 "
+ "phoneno":"17607800001"  "prov":"广西"  "city":"南宁"  "type":"中国联通 "
+ "phoneno":"17607810001"  "prov":"广西"  "city":"崇左"  "type":"中国联通 "
+ "phoneno":"17607820001"  "prov":"广西"  "city":"来宾"  "type":"中国联通 "
+ "phoneno":"17607830001"  "prov":"广西"  "city":"桂林"  "type":"中国联通 "
+ "phoneno":"17607840001"  "prov":"广西"  "city":"贺州"  "type":"中国联通 "
+ "phoneno":"17607850001"  "prov":"广西"  "city":"贵港"  "type":"中国联通 "
+ "phoneno":"17607860001"  "prov":"广西"  "city":"百色"  "type":"中国联通 "
+ "phoneno":"17607870001"  "prov":"广西"  "city":"钦州"  "type":"中国联通 "
+ "phoneno":"17607880001"  "prov":"广西"  "city":"南宁"  "type":"中国联通 "
+ "phoneno":"17607890001"  "prov":"广西"  "city":"南宁"  "type":"中国联通 "
+ "phoneno":"17607900001"  "prov":"江西"  "city":"新余"  "type":"中国联通 "
+ "phoneno":"17607910001"  "prov":"江西"  "city":"南昌"  "type":"中国联通 "
+ "phoneno":"17607920001"  "prov":"江西"  "city":"九江"  "type":"中国联通 "
+ "phoneno":"17607930001"  "prov":"江西"  "city":"上饶"  "type":"中国联通 "
+ "phoneno":"17607940001"  "prov":"江西"  "city":"抚州"  "type":"中国联通 "
+ "phoneno":"17607950001"  "prov":"江西"  "city":"宜春"  "type":"中国联通 "
+ "phoneno":"17607960001"  "prov":"江西"  "city":"吉安"  "type":"中国联通 "
+ "phoneno":"17607970001"  "prov":"江西"  "city":"赣州"  "type":"中国联通 "
+ "phoneno":"17607980001"  "prov":"江西"  "city":"景德镇"  "type":"中国联通 "
+ "phoneno":"17607990001"  "prov":"江西"  "city":"萍乡"  "type":"中国联通 "
+ "phoneno":"17608000001"  "prov":"四川"  "city":"成都"  "type":"中国联通 "
+ "phoneno":"17608010001"  "prov":"四川"  "city":"成都"  "type":"中国联通 "
+ "phoneno":"17608020001"  "prov":"四川"  "city":"成都"  "type":"中国联通 "
+ "phoneno":"17608030001"  "prov":"四川"  "city":"成都"  "type":"中国联通 "
+ "phoneno":"17608040001"  "prov":"四川"  "city":"成都"  "type":"中国联通 "
+ "phoneno":"17608050001"  "prov":"四川"  "city":"成都"  "type":"中国联通 "
+ "phoneno":"17608060001"  "prov":"四川"  "city":"成都"  "type":"中国联通 "
+ "phoneno":"17608070001"  "prov":"四川"  "city":"成都"  "type":"中国联通 "
+ "phoneno":"17608080001"  "prov":"四川"  "city":"成都"  "type":"中国联通 "
+ "phoneno":"17608090001"  "prov":"四川"  "city":"成都"  "type":"中国联通 "
+ "phoneno":"17608100001"  "prov":"四川"  "city":"眉山"  "type":"中国联通 "
+ "phoneno":"17608110001"  "prov":"四川"  "city":"眉山"  "type":"中国联通 "
+ "phoneno":"17608120001"  "prov":"四川"  "city":"攀枝花"  "type":"中国联通 "
+ "phoneno":"17608130001"  "prov":"四川"  "city":"自贡"  "type":"中国联通 "
+ "phoneno":"17608140001"  "prov":"四川"  "city":"达州"  "type":"中国联通 "
+ "phoneno":"17608150001"  "prov":"四川"  "city":"绵阳"  "type":"中国联通 "
+ "phoneno":"17608160001"  "prov":"四川"  "city":"绵阳"  "type":"中国联通 "
+ "phoneno":"17608170001"  "prov":"四川"  "city":"南充"  "type":"中国联通 "
+ "phoneno":"17608180001"  "prov":"四川"  "city":"达州"  "type":"中国联通 "
+ "phoneno":"17608190001"  "prov":"四川"  "city":"西昌"  "type":"中国联通 "
+ "phoneno":"17608200001"  "prov":"四川"  "city":"资阳"  "type":"中国联通 "
+ "phoneno":"17608210001"  "prov":"四川"  "city":"资阳"  "type":"中国联通 "
+ "phoneno":"17608220001"  "prov":"四川"  "city":"成都"  "type":"中国联通 "
+ "phoneno":"17608230001"  "prov":"四川"  "city":"成都"  "type":"中国联通 "
+ "phoneno":"17608240001"  "prov":"四川"  "city":"成都"  "type":"中国联通 "
+ "phoneno":"17608250001"  "prov":"四川"  "city":"遂宁"  "type":"中国联通 "
+ "phoneno":"17608260001"  "prov":"四川"  "city":"广安"  "type":"中国联通 "
+ "phoneno":"17608270001"  "prov":"四川"  "city":"巴中"  "type":"中国联通 "
+ "phoneno":"17608280001"  "prov":"四川"  "city":"成都"  "type":"中国联通 "
+ "phoneno":"17608290001"  "prov":"四川"  "city":"成都"  "type":"中国联通 "
+ "phoneno":"17608300001"  "prov":"四川"  "city":"泸州"  "type":"中国联通 "
+ "phoneno":"17608310001"  "prov":"四川"  "city":"宜宾"  "type":"中国联通 "
+ "phoneno":"17608320001"  "prov":"四川"  "city":"内江"  "type":"中国联通 "
+ "phoneno":"17608330001"  "prov":"四川"  "city":"乐山"  "type":"中国联通 "
+ "phoneno":"17608340001"  "prov":"四川"  "city":"西昌"  "type":"中国联通 "
+ "phoneno":"17608350001"  "prov":"四川"  "city":"雅安"  "type":"中国联通 "
+ "phoneno":"17608360001"  "prov":"四川"  "city":"甘孜"  "type":"中国联通 "
+ "phoneno":"17608370001"  "prov":"四川"  "city":"阿坝"  "type":"中国联通 "
+ "phoneno":"17608380001"  "prov":"四川"  "city":"德阳"  "type":"中国联通 "
+ "phoneno":"17608390001"  "prov":"四川"  "city":"广元"  "type":"中国联通 "
+ "phoneno":"17608400001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17608410001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17608420001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17608430001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17608440001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17608450001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17608460001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17608470001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17608480001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17608490001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17608500001"  "prov":"贵州"  "city":"贵阳"  "type":"中国联通 "
+ "phoneno":"17608510001"  "prov":"贵州"  "city":"贵阳"  "type":"中国联通 "
+ "phoneno":"17608520001"  "prov":"贵州"  "city":"遵义"  "type":"中国联通 "
+ "phoneno":"17608530001"  "prov":"贵州"  "city":"安顺"  "type":"中国联通 "
+ "phoneno":"17608540001"  "prov":"贵州"  "city":"都匀"  "type":"中国联通 "
+ "phoneno":"17608550001"  "prov":"贵州"  "city":"凯里"  "type":"中国联通 "
+ "phoneno":"17608560001"  "prov":"贵州"  "city":"铜仁"  "type":"中国联通 "
+ "phoneno":"17608570001"  "prov":"贵州"  "city":"毕节"  "type":"中国联通 "
+ "phoneno":"17608580001"  "prov":"贵州"  "city":"六盘水"  "type":"中国联通 "
+ "phoneno":"17608590001"  "prov":"贵州"  "city":"兴义"  "type":"中国联通 "
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ "phoneno":"17608700001"  "prov":"云南"  "city":"昭通"  "type":"中国联通 "
+ "phoneno":"17608710001"  "prov":"云南"  "city":"昆明"  "type":"中国联通 "
+ "phoneno":"17608720001"  "prov":"云南"  "city":"大理"  "type":"中国联通 "
+ "phoneno":"17608730001"  "prov":"云南"  "city":"红河"  "type":"中国联通 "
+ "phoneno":"17608740001"  "prov":"云南"  "city":"曲靖"  "type":"中国联通 "
+ "phoneno":"17608750001"  "prov":"云南"  "city":"保山"  "type":"中国联通 "
+ "phoneno":"17608760001"  "prov":"云南"  "city":"文山"  "type":"中国联通 "
+ "phoneno":"17608770001"  "prov":"云南"  "city":"玉溪"  "type":"中国联通 "
+ "phoneno":"17608780001"  "prov":"云南"  "city":"楚雄"  "type":"中国联通 "
+ "phoneno":"17608790001"  "prov":"云南"  "city":"思茅"  "type":"中国联通 "
+ "phoneno":"17608800001"  "prov":"云南"  "city":"昆明"  "type":"中国联通 "
+ "phoneno":"17608810001"  "prov":"云南"  "city":"怒江"  "type":"中国联通 "
+ "phoneno":"17608820001"  "prov":"云南"  "city":"临沧"  "type":"中国联通 "
+ "phoneno":"17608830001"  "prov":"云南"  "city":"临沧"  "type":"中国联通 "
+ "phoneno":"17608840001"  "prov":"云南"  "city":"昆明"  "type":"中国联通 "
+ "phoneno":"17608850001"  "prov":"云南"  "city":"迪庆"  "type":"中国联通 "
+ "phoneno":"17608860001"  "prov":"云南"  "city":"怒江"  "type":"中国联通 "
+ "phoneno":"17608870001"  "prov":"云南"  "city":"迪庆"  "type":"中国联通 "
+ "phoneno":"17608880001"  "prov":"云南"  "city":"丽江"  "type":"中国联通 "
+ "phoneno":"17608890001"  "prov":"云南"  "city":"曲靖"  "type":"中国联通 "
+ "phoneno":"17608900001"  "prov":"海南"  "city":"海口"  "type":"中国联通 "
+ "phoneno":"17608910001"  "prov":"海南"  "city":"海口"  "type":"中国联通 "
+ "phoneno":"17608920001"  "prov":"海南"  "city":"海口"  "type":"中国联通 "
+ "phoneno":"17608930001"  "prov":"海南"  "city":"海口"  "type":"中国联通 "
+ "phoneno":"17608940001"  "prov":"海南"  "city":"海口"  "type":"中国联通 "
+ "phoneno":"17608950001"  "prov":"海南"  "city":"海口"  "type":"中国联通 "
+ "phoneno":"17608960001"  "prov":"海南"  "city":"海口"  "type":"中国联通 "
+ "phoneno":"17608970001"  "prov":"海南"  "city":"海口"  "type":"中国联通 "
+ "phoneno":"17608980001"  "prov":"海南"  "city":"海口"  "type":"中国联通 "
+ "phoneno":"17608990001"  "prov":"海南"  "city":"海口"  "type":"中国联通 "
+ "phoneno":"17609000001"  "prov":"新疆"  "city":"乌鲁木齐"  "type":"中国联通 "
+ "phoneno":"17609010001"  "prov":"新疆"  "city":"塔城"  "type":"中国联通 "
+ "phoneno":"17609020001"  "prov":"新疆"  "city":"哈密"  "type":"中国联通 "
+ "phoneno":"17609030001"  "prov":"新疆"  "city":"和田"  "type":"中国联通 "
+ "phoneno":"17609040001"  "prov":"新疆"  "city":"乌鲁木齐"  "type":"中国联通 "
+ "phoneno":"17609050001"  "prov":"新疆"  "city":"乌鲁木齐"  "type":"中国联通 "
+ "phoneno":"17609060001"  "prov":"新疆"  "city":"阿勒泰"  "type":"中国联通 "
+ "phoneno":"17609070001"  "prov":"新疆"  "city":"乌鲁木齐"  "type":"中国联通 "
+ "phoneno":"17609080001"  "prov":"新疆"  "city":"克州"  "type":"中国联通 "
+ "phoneno":"17609090001"  "prov":"新疆"  "city":"博乐"  "type":"中国联通 "
+ "phoneno":"17609100001"  "prov":"陕西"  "city":"咸阳"  "type":"中国联通 "
+ "phoneno":"17609110001"  "prov":"陕西"  "city":"延安"  "type":"中国联通 "
+ "phoneno":"17609120001"  "prov":"陕西"  "city":"榆林"  "type":"中国联通 "
+ "phoneno":"17609130001"  "prov":"陕西"  "city":"渭南"  "type":"中国联通 "
+ "phoneno":"17609140001"  "prov":"陕西"  "city":"商洛"  "type":"中国联通 "
+ "phoneno":"17609150001"  "prov":"陕西"  "city":"安康"  "type":"中国联通 "
+ "phoneno":"17609160001"  "prov":"陕西"  "city":"汉中"  "type":"中国联通 "
+ "phoneno":"17609170001"  "prov":"陕西"  "city":"宝鸡"  "type":"中国联通 "
+ "phoneno":"17609180001"  "prov":"陕西"  "city":"商洛"  "type":"中国联通 "
+ "phoneno":"17609190001"  "prov":"陕西"  "city":"铜川"  "type":"中国联通 "
+ "phoneno":"17609200001"  "prov":"陕西"  "city":"咸阳"  "type":"中国联通 "
+ "phoneno":"17609210001"  "prov":"陕西"  "city":"延安"  "type":"中国联通 "
+ "phoneno":"17609220001"  "prov":"陕西"  "city":"榆林"  "type":"中国联通 "
+ "phoneno":"17609230001"  "prov":"陕西"  "city":"渭南"  "type":"中国联通 "
+ "phoneno":"17609240001"  "prov":"陕西"  "city":"渭南"  "type":"中国联通 "
+ "phoneno":"17609250001"  "prov":"陕西"  "city":"安康"  "type":"中国联通 "
+ "phoneno":"17609260001"  "prov":"陕西"  "city":"汉中"  "type":"中国联通 "
+ "phoneno":"17609270001"  "prov":"陕西"  "city":"宝鸡"  "type":"中国联通 "
+ "phoneno":"17609280001"  "prov":"陕西"  "city":"安康"  "type":"中国联通 "
+ "phoneno":"17609290001"  "prov":"陕西"  "city":"铜川"  "type":"中国联通 "
+ "phoneno":"17609300001"  "prov":"甘肃"  "city":"临夏"  "type":"中国联通 "
+ "phoneno":"17609310001"  "prov":"甘肃"  "city":"兰州"  "type":"中国联通 "
+ "phoneno":"17609320001"  "prov":"甘肃"  "city":"定西"  "type":"中国联通 "
+ "phoneno":"17609330001"  "prov":"甘肃"  "city":"平凉"  "type":"中国联通 "
+ "phoneno":"17609340001"  "prov":"甘肃"  "city":"庆阳"  "type":"中国联通 "
+ "phoneno":"17609350001"  "prov":"甘肃"  "city":"武威"  "type":"中国联通 "
+ "phoneno":"17609360001"  "prov":"甘肃"  "city":"张掖"  "type":"中国联通 "
+ "phoneno":"17609370001"  "prov":"甘肃"  "city":"酒泉"  "type":"中国联通 "
+ "phoneno":"17609380001"  "prov":"甘肃"  "city":"天水"  "type":"中国联通 "
+ "phoneno":"17609390001"  "prov":"甘肃"  "city":"陇南"  "type":"中国联通 "
+ "phoneno":"17609400001"  "prov":"甘肃"  "city":"天水"  "type":"中国联通 "
+ "phoneno":"17609410001"  "prov":"甘肃"  "city":"甘南"  "type":"中国联通 "
+ "phoneno":"17609420001"  "prov":"甘肃"  "city":"酒泉"  "type":"中国联通 "
+ "phoneno":"17609430001"  "prov":"甘肃"  "city":"白银"  "type":"中国联通 "
+ "phoneno":"17609440001"  "prov":"甘肃"  "city":"兰州"  "type":"中国联通 "
+ "phoneno":"17609450001"  "prov":"甘肃"  "city":"金昌"  "type":"中国联通 "
+ "phoneno":"17609460001"  "prov":"甘肃"  "city":"金昌"  "type":"中国联通 "
+ "phoneno":"17609470001"  "prov":"甘肃"  "city":"嘉峪关"  "type":"中国联通 "
+ "phoneno":"17609480001"  "prov":"甘肃"  "city":"嘉峪关"  "type":"中国联通 "
+ "phoneno":"17609490001"  "prov":"甘肃"  "city":"白银"  "type":"中国联通 "
+ "phoneno":"17609500001"  "prov":"宁夏"  "city":"银川"  "type":"中国联通 "
+ "phoneno":"17609510001"  "prov":"宁夏"  "city":"银川"  "type":"中国联通 "
+ "phoneno":"17609520001"  "prov":"宁夏"  "city":"石嘴山"  "type":"中国联通 "
+ "phoneno":"17609530001"  "prov":"宁夏"  "city":"吴忠"  "type":"中国联通 "
+ "phoneno":"17609540001"  "prov":"宁夏"  "city":"固原"  "type":"中国联通 "
+ "phoneno":"17609550001"  "prov":"宁夏"  "city":"中卫"  "type":"中国联通 "
+ "phoneno":"17609560001"  "prov":"宁夏"  "city":"吴忠"  "type":"中国联通 "
+ "phoneno":"17609570001"  "prov":"宁夏"  "city":"中卫"  "type":"中国联通 "
+ "phoneno":"17609580001"  "prov":"宁夏"  "city":"银川"  "type":"中国联通 "
+ "phoneno":"17609590001"  "prov":"宁夏"  "city":"固原"  "type":"中国联通 "
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ "phoneno":"17609700001"  "prov":"青海"  "city":"海北"  "type":"中国联通 "
+ "phoneno":"17609710001"  "prov":"青海"  "city":"西宁"  "type":"中国联通 "
+ "phoneno":"17609720001"  "prov":"青海"  "city":"海东"  "type":"中国联通 "
+ "phoneno":"17609730001"  "prov":"青海"  "city":"黄南"  "type":"中国联通 "
+ "phoneno":"17609740001"  "prov":"青海"  "city":"海南"  "type":"中国联通 "
+ "phoneno":"17609750001"  "prov":"青海"  "city":"果洛"  "type":"中国联通 "
+ "phoneno":"17609760001"  "prov":"青海"  "city":"玉树"  "type":"中国联通 "
+ "phoneno":"17609770001"  "prov":"青海"  "city":"海西"  "type":"中国联通 "
+ "phoneno":"17609780001"  "prov":"青海"  "city":"西宁"  "type":"中国联通 "
+ "phoneno":"17609790001"  "prov":"青海"  "city":"格尔木"  "type":"中国联通 "
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ "phoneno":"17609900001"  "prov":"新疆"  "city":"克拉玛依"  "type":"中国联通 "
+ "phoneno":"17609910001"  "prov":"新疆"  "city":"乌鲁木齐"  "type":"中国联通 "
+ "phoneno":"17609920001"  "prov":"新疆"  "city":"奎屯"  "type":"中国联通 "
+ "phoneno":"17609930001"  "prov":"新疆"  "city":"石河子"  "type":"中国联通 "
+ "phoneno":"17609940001"  "prov":"新疆"  "city":"昌吉"  "type":"中国联通 "
+ "phoneno":"17609950001"  "prov":"新疆"  "city":"吐鲁番"  "type":"中国联通 "
+ "phoneno":"17609960001"  "prov":"新疆"  "city":"库尔勒"  "type":"中国联通 "
+ "phoneno":"17609970001"  "prov":"新疆"  "city":"阿克苏"  "type":"中国联通 "
+ "phoneno":"17609980001"  "prov":"新疆"  "city":"喀什"  "type":"中国联通 "
+ "phoneno":"17609990001"  "prov":"新疆"  "city":"伊犁"  "type":"中国联通 "
+ "phoneno":"17610000001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17610010001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17610020001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17610030001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17610040001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17610050001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17610060001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17610070001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17610080001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17610090001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17610100001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17610110001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17610120001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17610130001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17610140001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17610150001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17610160001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17610170001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17610180001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17610190001"  "prov":""  "city":"北京"  "type":"中国联通 "
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ "phoneno":"17612100001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17612110001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17612120001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17612130001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17612140001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17612150001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17612160001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17612170001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17612180001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17612190001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17612200001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17612210001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17612220001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17612230001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17612240001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17612250001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17612260001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17612270001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17612280001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17612290001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17612300001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17612310001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17612320001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17612330001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17612340001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17612350001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17612360001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17612370001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17612380001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17612390001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17612400001"  "prov":"辽宁"  "city":"沈阳"  "type":"中国联通 "
+ "phoneno":"17612410001"  "prov":"辽宁"  "city":"沈阳"  "type":"中国联通 "
+ "phoneno":"17612420001"  "prov":"辽宁"  "city":"沈阳"  "type":"中国联通 "
+ "phoneno":"17612430001"  "prov":"辽宁"  "city":"沈阳"  "type":"中国联通 "
+ "phoneno":"17612440001"  "prov":"辽宁"  "city":"沈阳"  "type":"中国联通 "
+ "phoneno":"17612450001"  "prov":"辽宁"  "city":"沈阳"  "type":"中国联通 "
+ "phoneno":"17612460001"  "prov":"辽宁"  "city":"沈阳"  "type":"中国联通 "
+ "phoneno":"17612470001"  "prov":"辽宁"  "city":"沈阳"  "type":"中国联通 "
+ "phoneno":"17612480001"  "prov":"辽宁"  "city":"沈阳"  "type":"中国联通 "
+ "phoneno":"17612490001"  "prov":"辽宁"  "city":"沈阳"  "type":"中国联通 "
+ "phoneno":"17612500001"  "prov":"江苏"  "city":"南京"  "type":"中国联通 "
+ "phoneno":"17612510001"  "prov":"江苏"  "city":"南京"  "type":"中国联通 "
+ "phoneno":"17612520001"  "prov":"江苏"  "city":"南京"  "type":"中国联通 "
+ "phoneno":"17612530001"  "prov":"江苏"  "city":"南京"  "type":"中国联通 "
+ "phoneno":"17612540001"  "prov":"江苏"  "city":"南京"  "type":"中国联通 "
+ "phoneno":"17612550001"  "prov":"江苏"  "city":"南京"  "type":"中国联通 "
+ "phoneno":"17612560001"  "prov":"江苏"  "city":"南京"  "type":"中国联通 "
+ "phoneno":"17612570001"  "prov":"江苏"  "city":"南京"  "type":"中国联通 "
+ "phoneno":"17612580001"  "prov":"江苏"  "city":"南京"  "type":"中国联通 "
+ "phoneno":"17612590001"  "prov":"江苏"  "city":"南京"  "type":"中国联通 "
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ "phoneno":"17612700001"  "prov":"湖北"  "city":"武汉"  "type":"中国联通 "
+ "phoneno":"17612710001"  "prov":"湖北"  "city":"武汉"  "type":"中国联通 "
+ "phoneno":"17612720001"  "prov":"湖北"  "city":"武汉"  "type":"中国联通 "
+ "phoneno":"17612730001"  "prov":"湖北"  "city":"武汉"  "type":"中国联通 "
+ "phoneno":"17612740001"  "prov":"湖北"  "city":"武汉"  "type":"中国联通 "
+ "phoneno":"17612750001"  "prov":"湖北"  "city":"武汉"  "type":"中国联通 "
+ "phoneno":"17612760001"  "prov":"湖北"  "city":"武汉"  "type":"中国联通 "
+ "phoneno":"17612770001"  "prov":"湖北"  "city":"武汉"  "type":"中国联通 "
+ "phoneno":"17612780001"  "prov":"湖北"  "city":"武汉"  "type":"中国联通 "
+ "phoneno":"17612790001"  "prov":"湖北"  "city":"武汉"  "type":"中国联通 "
+ "phoneno":"17612800001"  "prov":"四川"  "city":"成都"  "type":"中国联通 "
+ "phoneno":"17612810001"  "prov":"四川"  "city":"成都"  "type":"中国联通 "
+ "phoneno":"17612820001"  "prov":"四川"  "city":"成都"  "type":"中国联通 "
+ "phoneno":"17612830001"  "prov":"四川"  "city":"成都"  "type":"中国联通 "
+ "phoneno":"17612840001"  "prov":"四川"  "city":"成都"  "type":"中国联通 "
+ "phoneno":"17612850001"  "prov":"四川"  "city":"成都"  "type":"中国联通 "
+ "phoneno":"17612860001"  "prov":"四川"  "city":"成都"  "type":"中国联通 "
+ "phoneno":"17612870001"  "prov":"四川"  "city":"成都"  "type":"中国联通 "
+ "phoneno":"17612880001"  "prov":"四川"  "city":"成都"  "type":"中国联通 "
+ "phoneno":"17612890001"  "prov":"四川"  "city":"成都"  "type":"中国联通 "
+ "phoneno":"17612900001"  "prov":"陕西"  "city":"咸阳"  "type":"中国联通 "
+ "phoneno":"17612910001"  "prov":"陕西"  "city":"咸阳"  "type":"中国联通 "
+ "phoneno":"17612920001"  "prov":"陕西"  "city":"渭南"  "type":"中国联通 "
+ "phoneno":"17612930001"  "prov":"陕西"  "city":"渭南"  "type":"中国联通 "
+ "phoneno":"17612940001"  "prov":"陕西"  "city":"宝鸡"  "type":"中国联通 "
+ "phoneno":"17612950001"  "prov":"陕西"  "city":"宝鸡"  "type":"中国联通 "
+ "phoneno":"17612960001"  "prov":"陕西"  "city":"宝鸡"  "type":"中国联通 "
+ "phoneno":"17612970001"  "prov":"陕西"  "city":"汉中"  "type":"中国联通 "
+ "phoneno":"17612980001"  "prov":"陕西"  "city":"榆林"  "type":"中国联通 "
+ "phoneno":"17612990001"  "prov":"陕西"  "city":"榆林"  "type":"中国联通 "
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ "phoneno":"17614000001"  "prov":"辽宁"  "city":"沈阳"  "type":"中国联通 "
+ "phoneno":"17614010001"  "prov":"辽宁"  "city":"沈阳"  "type":"中国联通 "
+ "phoneno":"17614020001"  "prov":"辽宁"  "city":"沈阳"  "type":"中国联通 "
+ "phoneno":"17614030001"  "prov":"辽宁"  "city":"沈阳"  "type":"中国联通 "
+ "phoneno":"17614040001"  "prov":"辽宁"  "city":"沈阳"  "type":"中国联通 "
+ "phoneno":"17614050001"  "prov":"辽宁"  "city":"沈阳"  "type":"中国联通 "
+ "phoneno":"17614060001"  "prov":"辽宁"  "city":"锦州"  "type":"中国联通 "
+ "phoneno":"17614070001"  "prov":"辽宁"  "city":"营口"  "type":"中国联通 "
+ "phoneno":"17614080001"  "prov":"辽宁"  "city":"大连"  "type":"中国联通 "
+ "phoneno":"17614090001"  "prov":"辽宁"  "city":"大连"  "type":"中国联通 "
+ "phoneno":"17614100001"  "prov":"辽宁"  "city":"铁岭"  "type":"中国联通 "
+ "phoneno":"17614110001"  "prov":"辽宁"  "city":"大连"  "type":"中国联通 "
+ "phoneno":"17614120001"  "prov":"辽宁"  "city":"鞍山"  "type":"中国联通 "
+ "phoneno":"17614130001"  "prov":"辽宁"  "city":"抚顺"  "type":"中国联通 "
+ "phoneno":"17614140001"  "prov":"辽宁"  "city":"本溪"  "type":"中国联通 "
+ "phoneno":"17614150001"  "prov":"辽宁"  "city":"丹东"  "type":"中国联通 "
+ "phoneno":"17614160001"  "prov":"辽宁"  "city":"锦州"  "type":"中国联通 "
+ "phoneno":"17614170001"  "prov":"辽宁"  "city":"营口"  "type":"中国联通 "
+ "phoneno":"17614180001"  "prov":"辽宁"  "city":"阜新"  "type":"中国联通 "
+ "phoneno":"17614190001"  "prov":"辽宁"  "city":"辽阳"  "type":"中国联通 "
+ "phoneno":"17614200001"  "prov":"辽宁"  "city":"鞍山"  "type":"中国联通 "
+ "phoneno":"17614210001"  "prov":"辽宁"  "city":"朝阳"  "type":"中国联通 "
+ "phoneno":"17614220001"  "prov":"辽宁"  "city":"鞍山"  "type":"中国联通 "
+ "phoneno":"17614230001"  "prov":"辽宁"  "city":"抚顺"  "type":"中国联通 "
+ "phoneno":"17614240001"  "prov":"辽宁"  "city":"本溪"  "type":"中国联通 "
+ "phoneno":"17614250001"  "prov":"辽宁"  "city":"丹东"  "type":"中国联通 "
+ "phoneno":"17614260001"  "prov":"辽宁"  "city":"大连"  "type":"中国联通 "
+ "phoneno":"17614270001"  "prov":"辽宁"  "city":"盘锦"  "type":"中国联通 "
+ "phoneno":"17614280001"  "prov":"辽宁"  "city":"大连"  "type":"中国联通 "
+ "phoneno":"17614290001"  "prov":"辽宁"  "city":"葫芦岛"  "type":"中国联通 "
+ "phoneno":"17614300001"  "prov":"吉林"  "city":"长春"  "type":"中国联通 "
+ "phoneno":"17614310001"  "prov":"吉林"  "city":"长春"  "type":"中国联通 "
+ "phoneno":"17614320001"  "prov":""  "city":"吉林"  "type":"中国联通 "
+ "phoneno":"17614330001"  "prov":"吉林"  "city":"延吉"  "type":"中国联通 "
+ "phoneno":"17614340001"  "prov":"吉林"  "city":"四平"  "type":"中国联通 "
+ "phoneno":"17614350001"  "prov":"吉林"  "city":"通化"  "type":"中国联通 "
+ "phoneno":"17614360001"  "prov":"吉林"  "city":"白城"  "type":"中国联通 "
+ "phoneno":"17614370001"  "prov":"吉林"  "city":"辽源"  "type":"中国联通 "
+ "phoneno":"17614380001"  "prov":"吉林"  "city":"松原"  "type":"中国联通 "
+ "phoneno":"17614390001"  "prov":"吉林"  "city":"白山"  "type":"中国联通 "
+ "phoneno":"17614400001"  "prov":"吉林"  "city":"长春"  "type":"中国联通 "
+ "phoneno":"17614410001"  "prov":"吉林"  "city":"长春"  "type":"中国联通 "
+ "phoneno":"17614420001"  "prov":""  "city":"吉林"  "type":"中国联通 "
+ "phoneno":"17614430001"  "prov":"吉林"  "city":"延吉"  "type":"中国联通 "
+ "phoneno":"17614440001"  "prov":"吉林"  "city":"四平"  "type":"中国联通 "
+ "phoneno":"17614450001"  "prov":"吉林"  "city":"通化"  "type":"中国联通 "
+ "phoneno":"17614460001"  "prov":"吉林"  "city":"白城"  "type":"中国联通 "
+ "phoneno":"17614470001"  "prov":"吉林"  "city":"辽源"  "type":"中国联通 "
+ "phoneno":"17614480001"  "prov":"吉林"  "city":"松原"  "type":"中国联通 "
+ "phoneno":"17614490001"  "prov":"吉林"  "city":"白山"  "type":"中国联通 "
+ "phoneno":"17614500001"  "prov":"黑龙江"  "city":"哈尔滨"  "type":"中国联通 "
+ "phoneno":"17614510001"  "prov":"黑龙江"  "city":"哈尔滨"  "type":"中国联通 "
+ "phoneno":"17614520001"  "prov":"黑龙江"  "city":"齐齐哈尔"  "type":"中国联通 "
+ "phoneno":"17614530001"  "prov":"黑龙江"  "city":"牡丹江"  "type":"中国联通 "
+ "phoneno":"17614540001"  "prov":"黑龙江"  "city":"佳木斯"  "type":"中国联通 "
+ "phoneno":"17614550001"  "prov":"黑龙江"  "city":"绥化"  "type":"中国联通 "
+ "phoneno":"17614560001"  "prov":"黑龙江"  "city":"黑河"  "type":"中国联通 "
+ "phoneno":"17614570001"  "prov":"黑龙江"  "city":"大兴安岭"  "type":"中国联通 "
+ "phoneno":"17614580001"  "prov":"黑龙江"  "city":"伊春"  "type":"中国联通 "
+ "phoneno":"17614590001"  "prov":"黑龙江"  "city":"大庆"  "type":"中国联通 "
+ "phoneno":"17614600001"  "prov":"黑龙江"  "city":"哈尔滨"  "type":"中国联通 "
+ "phoneno":"17614610001"  "prov":"黑龙江"  "city":"哈尔滨"  "type":"中国联通 "
+ "phoneno":"17614620001"  "prov":"黑龙江"  "city":"哈尔滨"  "type":"中国联通 "
+ "phoneno":"17614630001"  "prov":"黑龙江"  "city":"哈尔滨"  "type":"中国联通 "
+ "phoneno":"17614640001"  "prov":"黑龙江"  "city":"七台河"  "type":"中国联通 "
+ "phoneno":"17614650001"  "prov":"黑龙江"  "city":"哈尔滨"  "type":"中国联通 "
+ "phoneno":"17614660001"  "prov":"黑龙江"  "city":"哈尔滨"  "type":"中国联通 "
+ "phoneno":"17614670001"  "prov":"黑龙江"  "city":"鸡西"  "type":"中国联通 "
+ "phoneno":"17614680001"  "prov":"黑龙江"  "city":"鹤岗"  "type":"中国联通 "
+ "phoneno":"17614690001"  "prov":"黑龙江"  "city":"双鸭山"  "type":"中国联通 "
+ "phoneno":"17614700001"  "prov":"内蒙古"  "city":"呼伦贝尔"  "type":"中国联通 "
+ "phoneno":"17614710001"  "prov":"内蒙古"  "city":"呼和浩特"  "type":"中国联通 "
+ "phoneno":"17614720001"  "prov":"内蒙古"  "city":"包头"  "type":"中国联通 "
+ "phoneno":"17614730001"  "prov":"内蒙古"  "city":"乌海"  "type":"中国联通 "
+ "phoneno":"17614740001"  "prov":"内蒙古"  "city":"乌兰察布"  "type":"中国联通 "
+ "phoneno":"17614750001"  "prov":"内蒙古"  "city":"通辽"  "type":"中国联通 "
+ "phoneno":"17614760001"  "prov":"内蒙古"  "city":"赤峰"  "type":"中国联通 "
+ "phoneno":"17614770001"  "prov":"内蒙古"  "city":"鄂尔多斯"  "type":"中国联通 "
+ "phoneno":"17614780001"  "prov":"内蒙古"  "city":"巴彦淖尔"  "type":"中国联通 "
+ "phoneno":"17614790001"  "prov":"内蒙古"  "city":"锡林浩特"  "type":"中国联通 "
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ "phoneno":"17615000001"  "prov":"辽宁"  "city":"大连"  "type":"中国联通 "
+ "phoneno":"17615010001"  "prov":"辽宁"  "city":"大连"  "type":"中国联通 "
+ "phoneno":"17615020001"  "prov":"辽宁"  "city":"大连"  "type":"中国联通 "
+ "phoneno":"17615030001"  "prov":"辽宁"  "city":"大连"  "type":"中国联通 "
+ "phoneno":"17615040001"  "prov":"辽宁"  "city":"大连"  "type":"中国联通 "
+ "phoneno":"17615050001"  "prov":"辽宁"  "city":"大连"  "type":"中国联通 "
+ "phoneno":"17615060001"  "prov":"辽宁"  "city":"大连"  "type":"中国联通 "
+ "phoneno":"17615070001"  "prov":"辽宁"  "city":"大连"  "type":"中国联通 "
+ "phoneno":"17615080001"  "prov":"辽宁"  "city":"大连"  "type":"中国联通 "
+ "phoneno":"17615090001"  "prov":"辽宁"  "city":"大连"  "type":"中国联通 "
+ "phoneno":"17615100001"  "prov":"辽宁"  "city":"大连"  "type":"中国联通 "
+ "phoneno":"17615110001"  "prov":"辽宁"  "city":"大连"  "type":"中国联通 "
+ "phoneno":"17615120001"  "prov":"辽宁"  "city":"大连"  "type":"中国联通 "
+ "phoneno":"17615130001"  "prov":"辽宁"  "city":"大连"  "type":"中国联通 "
+ "phoneno":"17615140001"  "prov":"辽宁"  "city":"大连"  "type":"中国联通 "
+ "phoneno":"17615150001"  "prov":"辽宁"  "city":"大连"  "type":"中国联通 "
+ "phoneno":"17615160001"  "prov":"辽宁"  "city":"大连"  "type":"中国联通 "
+ "phoneno":"17615170001"  "prov":"辽宁"  "city":"大连"  "type":"中国联通 "
+ "phoneno":"17615180001"  "prov":"辽宁"  "city":"大连"  "type":"中国联通 "
+ "phoneno":"17615190001"  "prov":"辽宁"  "city":"大连"  "type":"中国联通 "
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ "phoneno":"17617000001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617010001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617020001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617030001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617040001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617050001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617060001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617070001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617080001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617090001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617100001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617110001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617120001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617130001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617140001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617150001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617160001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617170001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617180001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617190001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617200001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617210001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617220001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617230001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617240001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617250001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617260001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617270001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617280001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617290001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617300001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617310001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617320001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617330001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617340001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617350001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617360001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617370001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617380001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617390001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617400001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617410001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617420001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617430001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617440001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617450001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617460001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617470001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617480001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617490001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617500001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617510001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617520001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617530001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617540001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617550001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617560001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617570001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617580001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617590001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617600001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617610001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617620001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617630001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617640001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617650001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617660001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617670001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617680001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617690001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617700001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617710001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617720001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617730001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617740001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617750001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617760001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617770001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617780001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617790001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617800001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617810001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617820001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617830001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617840001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617850001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617860001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617870001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617880001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617890001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617900001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617910001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617920001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617930001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617940001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617950001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617960001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617970001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617980001"  "prov":""  "city":"北京"  "type":"中国联通 "
+ "phoneno":"17617990001"  "prov":""  "city":"北京"  "type":"中国联通 "
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ "phoneno":"17620000001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620010001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620020001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620030001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620040001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620050001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620060001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620070001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620080001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620090001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620100001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620110001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620120001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620130001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620140001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620150001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620160001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620170001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620180001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620190001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620200001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620210001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620220001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620230001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620240001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620250001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620260001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620270001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620280001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620290001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620300001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17620310001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17620320001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17620330001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17620340001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17620350001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17620360001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17620370001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17620380001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17620390001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17620400001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17620410001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17620420001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17620430001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17620440001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17620450001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17620460001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17620470001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17620480001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17620490001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17620500001"  "prov":"广东"  "city":"东莞"  "type":"中国联通 "
+ "phoneno":"17620510001"  "prov":"广东"  "city":"东莞"  "type":"中国联通 "
+ "phoneno":"17620520001"  "prov":"广东"  "city":"东莞"  "type":"中国联通 "
+ "phoneno":"17620530001"  "prov":"广东"  "city":"东莞"  "type":"中国联通 "
+ "phoneno":"17620540001"  "prov":"广东"  "city":"东莞"  "type":"中国联通 "
+ "phoneno":"17620550001"  "prov":"广东"  "city":"东莞"  "type":"中国联通 "
+ "phoneno":"17620560001"  "prov":"广东"  "city":"东莞"  "type":"中国联通 "
+ "phoneno":"17620570001"  "prov":"广东"  "city":"东莞"  "type":"中国联通 "
+ "phoneno":"17620580001"  "prov":"广东"  "city":"东莞"  "type":"中国联通 "
+ "phoneno":"17620590001"  "prov":"广东"  "city":"东莞"  "type":"中国联通 "
+ "phoneno":"17620600001"  "prov":"广东"  "city":"佛山"  "type":"中国联通 "
+ "phoneno":"17620610001"  "prov":"广东"  "city":"佛山"  "type":"中国联通 "
+ "phoneno":"17620620001"  "prov":"广东"  "city":"佛山"  "type":"中国联通 "
+ "phoneno":"17620630001"  "prov":"广东"  "city":"佛山"  "type":"中国联通 "
+ "phoneno":"17620640001"  "prov":"广东"  "city":"佛山"  "type":"中国联通 "
+ "phoneno":"17620650001"  "prov":"广东"  "city":"佛山"  "type":"中国联通 "
+ "phoneno":"17620660001"  "prov":"广东"  "city":"佛山"  "type":"中国联通 "
+ "phoneno":"17620670001"  "prov":"广东"  "city":"佛山"  "type":"中国联通 "
+ "phoneno":"17620680001"  "prov":"广东"  "city":"佛山"  "type":"中国联通 "
+ "phoneno":"17620690001"  "prov":"广东"  "city":"佛山"  "type":"中国联通 "
+ "phoneno":"17620700001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620710001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620720001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620730001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620740001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620750001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620760001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620770001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620780001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620790001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620800001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620810001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620820001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620830001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620840001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620850001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620860001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620870001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620880001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620890001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620900001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620910001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620920001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620930001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620940001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620950001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620960001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620970001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620980001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17620990001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17621000001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17621010001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17621020001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17621030001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17621040001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17621050001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17621060001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17621070001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17621080001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17621090001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17621100001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17621110001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17621120001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17621130001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17621140001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17621150001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17621160001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17621170001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17621180001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17621190001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17621200001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17621210001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17621220001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17621230001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17621240001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17621250001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17621260001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17621270001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17621280001"  "prov":""  "city":"上海"  "type":"中国联通 "
+ "phoneno":"17621290001"  "prov":""  "city":"上海"  "type":"中国联通 "
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ "phoneno":"17622000001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17622010001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17622020001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17622030001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17622040001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17622050001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17622060001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17622070001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17622080001"  "prov":""  "city":"天津"  "type":"中国联通 "
+ "phoneno":"17622090001"  "prov":""  "city":"天津"  "type":"中国联通 "
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ "phoneno":"17623000001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17623010001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17623020001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17623030001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17623040001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17623050001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17623060001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17623070001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17623080001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17623090001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17623100001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17623110001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17623120001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17623130001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17623140001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17623150001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17623160001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17623170001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17623180001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17623190001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17623200001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17623210001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17623220001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17623230001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17623240001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17623250001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17623260001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17623270001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17623280001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+ "phoneno":"17623290001"  "prov":""  "city":"重庆"  "type":"中国联通 "
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ "phoneno":"17625000001"  "prov":"江苏"  "city":"无锡"  "type":"中国联通 "
+ "phoneno":"17625010001"  "prov":"江苏"  "city":"无锡"  "type":"中国联通 "
+ "phoneno":"17625020001"  "prov":"江苏"  "city":"无锡"  "type":"中国联通 "
+ "phoneno":"17625030001"  "prov":"江苏"  "city":"无锡"  "type":"中国联通 "
+ "phoneno":"17625040001"  "prov":"江苏"  "city":"宿迁"  "type":"中国联通 "
+ "phoneno":"17625050001"  "prov":"江苏"  "city":"宿迁"  "type":"中国联通 "
+ "phoneno":"17625060001"  "prov":"江苏"  "city":"扬州"  "type":"中国联通 "
+ "phoneno":"17625070001"  "prov":"江苏"  "city":"扬州"  "type":"中国联通 "
+ "phoneno":"17625080001"  "prov":"江苏"  "city":"盐城"  "type":"中国联通 "
+ "phoneno":"17625090001"  "prov":"江苏"  "city":"盐城"  "type":"中国联通 "
+ "phoneno":"17625100001"  "prov":"江苏"  "city":"无锡"  "type":"中国联通 "
+ "phoneno":"17625110001"  "prov":"江苏"  "city":"镇江"  "type":"中国联通 "
+ "phoneno":"17625120001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17625130001"  "prov":"江苏"  "city":"南通"  "type":"中国联通 "
+ "phoneno":"17625140001"  "prov":"江苏"  "city":"扬州"  "type":"中国联通 "
+ "phoneno":"17625150001"  "prov":"江苏"  "city":"盐城"  "type":"中国联通 "
+ "phoneno":"17625160001"  "prov":"江苏"  "city":"徐州"  "type":"中国联通 "
+ "phoneno":"17625170001"  "prov":"江苏"  "city":"淮安"  "type":"中国联通 "
+ "phoneno":"17625180001"  "prov":"江苏"  "city":"连云港"  "type":"中国联通 "
+ "phoneno":"17625190001"  "prov":"江苏"  "city":"常州"  "type":"中国联通 "
+ "phoneno":"17625200001"  "prov":"江苏"  "city":"南通"  "type":"中国联通 "
+ "phoneno":"17625210001"  "prov":"江苏"  "city":"南通"  "type":"中国联通 "
+ "phoneno":"17625220001"  "prov":"江苏"  "city":"常州"  "type":"中国联通 "
+ "phoneno":"17625230001"  "prov":"江苏"  "city":"泰州"  "type":"中国联通 "
+ "phoneno":"17625240001"  "prov":"江苏"  "city":"常州"  "type":"中国联通 "
+ "phoneno":"17625250001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17625260001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17625270001"  "prov":"江苏"  "city":"宿迁"  "type":"中国联通 "
+ "phoneno":"17625280001"  "prov":"江苏"  "city":"南京"  "type":"中国联通 "
+ "phoneno":"17625290001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17625300001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17625310001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17625320001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17625330001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17625340001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17625350001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17625360001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17625370001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17625380001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17625390001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17625400001"  "prov":"江苏"  "city":"无锡"  "type":"中国联通 "
+ "phoneno":"17625410001"  "prov":"江苏"  "city":"泰州"  "type":"中国联通 "
+ "phoneno":"17625420001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17625430001"  "prov":"江苏"  "city":"南通"  "type":"中国联通 "
+ "phoneno":"17625440001"  "prov":"江苏"  "city":"宿迁"  "type":"中国联通 "
+ "phoneno":"17625450001"  "prov":"江苏"  "city":"盐城"  "type":"中国联通 "
+ "phoneno":"17625460001"  "prov":"江苏"  "city":"徐州"  "type":"中国联通 "
+ "phoneno":"17625470001"  "prov":"江苏"  "city":"淮安"  "type":"中国联通 "
+ "phoneno":"17625480001"  "prov":"江苏"  "city":"连云港"  "type":"中国联通 "
+ "phoneno":"17625490001"  "prov":"江苏"  "city":"常州"  "type":"中国联通 "
+ "phoneno":"17625500001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17625510001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17625520001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17625530001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17625540001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17625550001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17625560001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17625570001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17625580001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17625590001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17625600001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17625610001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17625620001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17625630001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17625640001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17625650001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17625660001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17625670001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17625680001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+ "phoneno":"17625690001"  "prov":"江苏"  "city":"苏州"  "type":"中国联通 "
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ "phoneno":"17680000001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17680010001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17680020001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17680030001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17680040001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17680050001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17680060001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17680070001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17680080001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17680090001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17680100001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17680110001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17680120001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17680130001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17680140001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17680150001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17680160001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17680170001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17680180001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17680190001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17680200001"  "prov":"湖南"  "city":"株洲"  "type":"中国联通 "
+ "phoneno":"17680210001"  "prov":"湖南"  "city":"株洲"  "type":"中国联通 "
+ "phoneno":"17680220001"  "prov":"湖南"  "city":"株洲"  "type":"中国联通 "
+ "phoneno":"17680230001"  "prov":"湖南"  "city":"湘潭"  "type":"中国联通 "
+ "phoneno":"17680240001"  "prov":"湖南"  "city":"湘潭"  "type":"中国联通 "
+ "phoneno":"17680250001"  "prov":"湖南"  "city":"湘潭"  "type":"中国联通 "
+ "phoneno":"17680260001"  "prov":"湖南"  "city":"衡阳"  "type":"中国联通 "
+ "phoneno":"17680270001"  "prov":"湖南"  "city":"衡阳"  "type":"中国联通 "
+ "phoneno":"17680280001"  "prov":"湖南"  "city":"衡阳"  "type":"中国联通 "
+ "phoneno":"17680290001"  "prov":"湖南"  "city":"益阳"  "type":"中国联通 "
+ "phoneno":"17680300001"  "prov":"湖南"  "city":"岳阳"  "type":"中国联通 "
+ "phoneno":"17680310001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17680320001"  "prov":"湖南"  "city":"湘潭"  "type":"中国联通 "
+ "phoneno":"17680330001"  "prov":"湖南"  "city":"株洲"  "type":"中国联通 "
+ "phoneno":"17680340001"  "prov":"湖南"  "city":"衡阳"  "type":"中国联通 "
+ "phoneno":"17680350001"  "prov":"湖南"  "city":"郴州"  "type":"中国联通 "
+ "phoneno":"17680360001"  "prov":"湖南"  "city":"永州"  "type":"中国联通 "
+ "phoneno":"17680370001"  "prov":"湖南"  "city":"益阳"  "type":"中国联通 "
+ "phoneno":"17680380001"  "prov":"湖南"  "city":"娄底"  "type":"中国联通 "
+ "phoneno":"17680390001"  "prov":"湖南"  "city":"邵阳"  "type":"中国联通 "
+ "phoneno":"17680400001"  "prov":"湖南"  "city":"衡阳"  "type":"中国联通 "
+ "phoneno":"17680410001"  "prov":"湖南"  "city":"衡阳"  "type":"中国联通 "
+ "phoneno":"17680420001"  "prov":"湖南"  "city":"吉首"  "type":"中国联通 "
+ "phoneno":"17680430001"  "prov":"湖南"  "city":"吉首"  "type":"中国联通 "
+ "phoneno":"17680440001"  "prov":"湖南"  "city":"岳阳"  "type":"中国联通 "
+ "phoneno":"17680450001"  "prov":"湖南"  "city":"岳阳"  "type":"中国联通 "
+ "phoneno":"17680460001"  "prov":"湖南"  "city":"岳阳"  "type":"中国联通 "
+ "phoneno":"17680470001"  "prov":"湖南"  "city":"岳阳"  "type":"中国联通 "
+ "phoneno":"17680480001"  "prov":"湖南"  "city":"岳阳"  "type":"中国联通 "
+ "phoneno":"17680490001"  "prov":"湖南"  "city":"邵阳"  "type":"中国联通 "
+ "phoneno":"17680500001"  "prov":"湖南"  "city":"益阳"  "type":"中国联通 "
+ "phoneno":"17680510001"  "prov":"湖南"  "city":"张家界"  "type":"中国联通 "
+ "phoneno":"17680520001"  "prov":"湖南"  "city":"郴州"  "type":"中国联通 "
+ "phoneno":"17680530001"  "prov":"湖南"  "city":"郴州"  "type":"中国联通 "
+ "phoneno":"17680540001"  "prov":"湖南"  "city":"常德"  "type":"中国联通 "
+ "phoneno":"17680550001"  "prov":"湖南"  "city":"郴州"  "type":"中国联通 "
+ "phoneno":"17680560001"  "prov":"湖南"  "city":"常德"  "type":"中国联通 "
+ "phoneno":"17680570001"  "prov":"湖南"  "city":"常德"  "type":"中国联通 "
+ "phoneno":"17680580001"  "prov":"湖南"  "city":"常德"  "type":"中国联通 "
+ "phoneno":"17680590001"  "prov":"湖南"  "city":"常德"  "type":"中国联通 "
+ "phoneno":"17680600001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17680610001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17680620001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17680630001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17680640001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17680650001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17680660001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17680670001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17680680001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17680690001"  "prov":"湖南"  "city":"长沙"  "type":"中国联通 "
+ "phoneno":"17680700001"  "prov":"湖南"  "city":"娄底"  "type":"中国联通 "
+ "phoneno":"17680710001"  "prov":"湖南"  "city":"娄底"  "type":"中国联通 "
+ "phoneno":"17680720001"  "prov":"湖南"  "city":"娄底"  "type":"中国联通 "
+ "phoneno":"17680730001"  "prov":"湖南"  "city":"娄底"  "type":"中国联通 "
+ "phoneno":"17680740001"  "prov":"湖南"  "city":"怀化"  "type":"中国联通 "
+ "phoneno":"17680750001"  "prov":"湖南"  "city":"永州"  "type":"中国联通 "
+ "phoneno":"17680760001"  "prov":"湖南"  "city":"怀化"  "type":"中国联通 "
+ "phoneno":"17680770001"  "prov":"湖南"  "city":"邵阳"  "type":"中国联通 "
+ "phoneno":"17680780001"  "prov":"湖南"  "city":"邵阳"  "type":"中国联通 "
+ "phoneno":"17680790001"  "prov":"湖南"  "city":"邵阳"  "type":"中国联通 "
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ "phoneno":"17681000001"  "prov":"安徽"  "city":"宿州"  "type":"中国联通 "
+ "phoneno":"17681010001"  "prov":"安徽"  "city":"宿州"  "type":"中国联通 "
+ "phoneno":"17681020001"  "prov":"安徽"  "city":"宿州"  "type":"中国联通 "
+ "phoneno":"17681030001"  "prov":"安徽"  "city":"宣城"  "type":"中国联通 "
+ "phoneno":"17681040001"  "prov":"安徽"  "city":"六安"  "type":"中国联通 "
+ "phoneno":"17681050001"  "prov":"安徽"  "city":"阜阳"  "type":"中国联通 "
+ "phoneno":"17681060001"  "prov":"安徽"  "city":"阜阳"  "type":"中国联通 "
+ "phoneno":"17681070001"  "prov":"安徽"  "city":"阜阳"  "type":"中国联通 "
+ "phoneno":"17681080001"  "prov":"安徽"  "city":"阜阳"  "type":"中国联通 "
+ "phoneno":"17681090001"  "prov":"安徽"  "city":"阜阳"  "type":"中国联通 "
+ "phoneno":"17681100001"  "prov":"安徽"  "city":"合肥"  "type":"中国联通 "
+ "phoneno":"17681110001"  "prov":"安徽"  "city":"合肥"  "type":"中国联通 "
+ "phoneno":"17681120001"  "prov":"安徽"  "city":"合肥"  "type":"中国联通 "
+ "phoneno":"17681130001"  "prov":"安徽"  "city":"合肥"  "type":"中国联通 "
+ "phoneno":"17681140001"  "prov":"安徽"  "city":"合肥"  "type":"中国联通 "
+ "phoneno":"17681150001"  "prov":"安徽"  "city":"合肥"  "type":"中国联通 "
+ "phoneno":"17681160001"  "prov":"安徽"  "city":"合肥"  "type":"中国联通 "
+ "phoneno":"17681170001"  "prov":"安徽"  "city":"合肥"  "type":"中国联通 "
+ "phoneno":"17681180001"  "prov":"安徽"  "city":"合肥"  "type":"中国联通 "
+ "phoneno":"17681190001"  "prov":"安徽"  "city":"合肥"  "type":"中国联通 "
+ "phoneno":"17681200001"  "prov":"安徽"  "city":"池州"  "type":"中国联通 "
+ "phoneno":"17681210001"  "prov":"安徽"  "city":"淮北"  "type":"中国联通 "
+ "phoneno":"17681220001"  "prov":"安徽"  "city":"蚌埠"  "type":"中国联通 "
+ "phoneno":"17681230001"  "prov":"安徽"  "city":"蚌埠"  "type":"中国联通 "
+ "phoneno":"17681240001"  "prov":"安徽"  "city":"马鞍山"  "type":"中国联通 "
+ "phoneno":"17681250001"  "prov":"安徽"  "city":"马鞍山"  "type":"中国联通 "
+ "phoneno":"17681260001"  "prov":"安徽"  "city":"安庆"  "type":"中国联通 "
+ "phoneno":"17681270001"  "prov":"安徽"  "city":"安庆"  "type":"中国联通 "
+ "phoneno":"17681280001"  "prov":"安徽"  "city":"淮南"  "type":"中国联通 "
+ "phoneno":"17681290001"  "prov":"安徽"  "city":"黄山"  "type":"中国联通 "
+ "phoneno":"17681300001"  "prov":"安徽"  "city":"滁州"  "type":"中国联通 "
+ "phoneno":"17681310001"  "prov":"安徽"  "city":"芜湖"  "type":"中国联通 "
+ "phoneno":"17681320001"  "prov":"安徽"  "city":"芜湖"  "type":"中国联通 "
+ "phoneno":"17681330001"  "prov":"安徽"  "city":"芜湖"  "type":"中国联通 "
+ "phoneno":"17681340001"  "prov":"安徽"  "city":"芜湖"  "type":"中国联通 "
+ "phoneno":"17681350001"  "prov":"安徽"  "city":"亳州"  "type":"中国联通 "
+ "phoneno":"17681360001"  "prov":"安徽"  "city":"亳州"  "type":"中国联通 "
+ "phoneno":"17681370001"  "prov":"安徽"  "city":"亳州"  "type":"中国联通 "
+ "phoneno":"17681380001"  "prov":"安徽"  "city":"六安"  "type":"中国联通 "
+ "phoneno":"17681390001"  "prov":"安徽"  "city":"铜陵"  "type":"中国联通 "
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ "phoneno":"17681500001"  "prov":"浙江"  "city":"绍兴"  "type":"中国联通 "
+ "phoneno":"17681510001"  "prov":"浙江"  "city":"绍兴"  "type":"中国联通 "
+ "phoneno":"17681520001"  "prov":"浙江"  "city":"绍兴"  "type":"中国联通 "
+ "phoneno":"17681530001"  "prov":"浙江"  "city":"嘉兴"  "type":"中国联通 "
+ "phoneno":"17681540001"  "prov":"浙江"  "city":"嘉兴"  "type":"中国联通 "
+ "phoneno":"17681550001"  "prov":"浙江"  "city":"嘉兴"  "type":"中国联通 "
+ "phoneno":"17681560001"  "prov":"浙江"  "city":"嘉兴"  "type":"中国联通 "
+ "phoneno":"17681570001"  "prov":"浙江"  "city":"嘉兴"  "type":"中国联通 "
+ "phoneno":"17681580001"  "prov":"浙江"  "city":"嘉兴"  "type":"中国联通 "
+ "phoneno":"17681590001"  "prov":"浙江"  "city":"嘉兴"  "type":"中国联通 "
+ "phoneno":"17681600001"  "prov":"浙江"  "city":"台州"  "type":"中国联通 "
+ "phoneno":"17681610001"  "prov":"浙江"  "city":"台州"  "type":"中国联通 "
+ "phoneno":"17681620001"  "prov":"浙江"  "city":"台州"  "type":"中国联通 "
+ "phoneno":"17681630001"  "prov":"浙江"  "city":"台州"  "type":"中国联通 "
+ "phoneno":"17681640001"  "prov":"浙江"  "city":"台州"  "type":"中国联通 "
+ "phoneno":"17681650001"  "prov":"浙江"  "city":"台州"  "type":"中国联通 "
+ "phoneno":"17681660001"  "prov":"浙江"  "city":"台州"  "type":"中国联通 "
+ "phoneno":"17681670001"  "prov":"浙江"  "city":"台州"  "type":"中国联通 "
+ "phoneno":"17681680001"  "prov":"浙江"  "city":"台州"  "type":"中国联通 "
+ "phoneno":"17681690001"  "prov":"浙江"  "city":"湖州"  "type":"中国联通 "
+ "phoneno":"17681700001"  "prov":"浙江"  "city":"温州"  "type":"中国联通 "
+ "phoneno":"17681710001"  "prov":"浙江"  "city":"温州"  "type":"中国联通 "
+ "phoneno":"17681720001"  "prov":"浙江"  "city":"温州"  "type":"中国联通 "
+ "phoneno":"17681730001"  "prov":"浙江"  "city":"温州"  "type":"中国联通 "
+ "phoneno":"17681740001"  "prov":"浙江"  "city":"温州"  "type":"中国联通 "
+ "phoneno":"17681750001"  "prov":"浙江"  "city":"温州"  "type":"中国联通 "
+ "phoneno":"17681760001"  "prov":"浙江"  "city":"温州"  "type":"中国联通 "
+ "phoneno":"17681770001"  "prov":"浙江"  "city":"温州"  "type":"中国联通 "
+ "phoneno":"17681780001"  "prov":"浙江"  "city":"温州"  "type":"中国联通 "
+ "phoneno":"17681790001"  "prov":"浙江"  "city":"温州"  "type":"中国联通 "
+ "phoneno":"17681800001"  "prov":"浙江"  "city":"杭州"  "type":"中国联通 "
+ "phoneno":"17681810001"  "prov":"浙江"  "city":"杭州"  "type":"中国联通 "
+ "phoneno":"17681820001"  "prov":"浙江"  "city":"杭州"  "type":"中国联通 "
+ "phoneno":"17681830001"  "prov":"浙江"  "city":"杭州"  "type":"中国联通 "
+ "phoneno":"17681840001"  "prov":"浙江"  "city":"杭州"  "type":"中国联通 "
+ "phoneno":"17681850001"  "prov":"浙江"  "city":"杭州"  "type":"中国联通 "
+ "phoneno":"17681860001"  "prov":"浙江"  "city":"杭州"  "type":"中国联通 "
+ "phoneno":"17681870001"  "prov":"浙江"  "city":"杭州"  "type":"中国联通 "
+ "phoneno":"17681880001"  "prov":"浙江"  "city":"杭州"  "type":"中国联通 "
+ "phoneno":"17681890001"  "prov":"浙江"  "city":"杭州"  "type":"中国联通 "
+ "phoneno":"17681900001"  "prov":"浙江"  "city":"金华"  "type":"中国联通 "
+ "phoneno":"17681910001"  "prov":"浙江"  "city":"金华"  "type":"中国联通 "
+ "phoneno":"17681920001"  "prov":"浙江"  "city":"金华"  "type":"中国联通 "
+ "phoneno":"17681930001"  "prov":"浙江"  "city":"金华"  "type":"中国联通 "
+ "phoneno":"17681940001"  "prov":"浙江"  "city":"金华"  "type":"中国联通 "
+ "phoneno":"17681950001"  "prov":"浙江"  "city":"杭州"  "type":"中国联通 "
+ "phoneno":"17681960001"  "prov":"浙江"  "city":"湖州"  "type":"中国联通 "
+ "phoneno":"17681970001"  "prov":"浙江"  "city":"温州"  "type":"中国联通 "
+ "phoneno":"17681980001"  "prov":"浙江"  "city":"温州"  "type":"中国联通 "
+ "phoneno":"17681990001"  "prov":"浙江"  "city":"宁波"  "type":"中国联通 "
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ "phoneno":"17683000001"  "prov":"四川"  "city":"泸州"  "type":"中国联通 "
+ "phoneno":"17683010001"  "prov":"四川"  "city":"绵阳"  "type":"中国联通 "
+ "phoneno":"17683020001"  "prov":"四川"  "city":"内江"  "type":"中国联通 "
+ "phoneno":"17683030001"  "prov":"四川"  "city":"乐山"  "type":"中国联通 "
+ "phoneno":"17683040001"  "prov":"四川"  "city":"遂宁"  "type":"中国联通 "
+ "phoneno":"17683050001"  "prov":"四川"  "city":"雅安"  "type":"中国联通 "
+ "phoneno":"17683060001"  "prov":"四川"  "city":"甘孜"  "type":"中国联通 "
+ "phoneno":"17683070001"  "prov":"四川"  "city":"阿坝"  "type":"中国联通 "
+ "phoneno":"17683080001"  "prov":"四川"  "city":"德阳"  "type":"中国联通 "
+ "phoneno":"17683090001"  "prov":"四川"  "city":"广元"  "type":"中国联通 "
+ "phoneno":"17683100001"  "prov":"四川"  "city":"宜宾"  "type":"中国联通 "
+ "phoneno":"17683110001"  "prov":"四川"  "city":"广安"  "type":"中国联通 "
+ "phoneno":"17683120001"  "prov":"四川"  "city":"攀枝花"  "type":"中国联通 "
+ "phoneno":"17683130001"  "prov":"四川"  "city":"自贡"  "type":"中国联通 "
+ "phoneno":"17683140001"  "prov":"四川"  "city":"德阳"  "type":"中国联通 "
+ "phoneno":"17683150001"  "prov":"四川"  "city":"巴中"  "type":"中国联通 "
+ "phoneno":"17683160001"  "prov":"四川"  "city":"南充"  "type":"中国联通 "
+ "phoneno":"17683170001"  "prov":"四川"  "city":"南充"  "type":"中国联通 "
+ "phoneno":"17683180001"  "prov":"四川"  "city":"南充"  "type":"中国联通 "
+ "phoneno":"17683190001"  "prov":"四川"  "city":"达州"  "type":"中国联通 "
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ "phoneno":"17683700001"  "prov":"湖北"  "city":"宜昌"  "type":"中国联通 "
+ "phoneno":"17683710001"  "prov":"湖北"  "city":"宜昌"  "type":"中国联通 "
+ "phoneno":"17683720001"  "prov":"湖北"  "city":"荆州"  "type":"中国联通 "
+ "phoneno":"17683730001"  "prov":"湖北"  "city":"荆州"  "type":"中国联通 "
+ "phoneno":"17683740001"  "prov":"湖北"  "city":"荆州"  "type":"中国联通 "
+ "phoneno":"17683750001"  "prov":"湖北"  "city":"鄂州"  "type":"中国联通 "
+ "phoneno":"17683760001"  "prov":"湖北"  "city":"鄂州"  "type":"中国联通 "
+ "phoneno":"17683770001"  "prov":"湖北"  "city":"随州"  "type":"中国联通 "
+ "phoneno":"17683780001"  "prov":"湖北"  "city":"随州"  "type":"中国联通 "
+ "phoneno":"17683790001"  "prov":"湖北"  "city":"孝感"  "type":"中国联通 "
+ "phoneno":"17683800001"  "prov":"湖北"  "city":"孝感"  "type":"中国联通 "
+ "phoneno":"17683810001"  "prov":"湖北"  "city":"孝感"  "type":"中国联通 "
+ "phoneno":"17683820001"  "prov":"湖北"  "city":"黄冈"  "type":"中国联通 "
+ "phoneno":"17683830001"  "prov":"湖北"  "city":"黄冈"  "type":"中国联通 "
+ "phoneno":"17683840001"  "prov":"湖北"  "city":"荆门"  "type":"中国联通 "
+ "phoneno":"17683850001"  "prov":"湖北"  "city":"江汉"  "type":"中国联通 "
+ "phoneno":"17683860001"  "prov":"湖北"  "city":"江汉"  "type":"中国联通 "
+ "phoneno":"17683870001"  "prov":"湖北"  "city":"黄石"  "type":"中国联通 "
+ "phoneno":"17683880001"  "prov":"湖北"  "city":"荆门"  "type":"中国联通 "
+ "phoneno":"17683890001"  "prov":"湖北"  "city":"荆门"  "type":"中国联通 "
+ "phoneno":"17683900001"  "prov":"湖北"  "city":"襄阳"  "type":"中国联通 "
+ "phoneno":"17683910001"  "prov":"湖北"  "city":"襄阳"  "type":"中国联通 "
+ "phoneno":"17683920001"  "prov":"湖北"  "city":"襄阳"  "type":"中国联通 "
+ "phoneno":"17683930001"  "prov":"湖北"  "city":"襄阳"  "type":"中国联通 "
+ "phoneno":"17683940001"  "prov":"湖北"  "city":"十堰"  "type":"中国联通 "
+ "phoneno":"17683950001"  "prov":"湖北"  "city":"恩施"  "type":"中国联通 "
+ "phoneno":"17683960001"  "prov":"湖北"  "city":"恩施"  "type":"中国联通 "
+ "phoneno":"17683970001"  "prov":"湖北"  "city":"恩施"  "type":"中国联通 "
+ "phoneno":"17683980001"  "prov":"湖北"  "city":"咸宁"  "type":"中国联通 "
+ "phoneno":"17683990001"  "prov":"湖北"  "city":"荆州"  "type":"中国联通 "
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ "phoneno":"17685000001"  "prov":"贵州"  "city":"贵阳"  "type":"中国联通 "
+ "phoneno":"17685010001"  "prov":"贵州"  "city":"贵阳"  "type":"中国联通 "
+ "phoneno":"17685020001"  "prov":"贵州"  "city":"贵阳"  "type":"中国联通 "
+ "phoneno":"17685030001"  "prov":"贵州"  "city":"贵阳"  "type":"中国联通 "
+ "phoneno":"17685040001"  "prov":"贵州"  "city":"贵阳"  "type":"中国联通 "
+ "phoneno":"17685050001"  "prov":"贵州"  "city":"贵阳"  "type":"中国联通 "
+ "phoneno":"17685060001"  "prov":"贵州"  "city":"贵阳"  "type":"中国联通 "
+ "phoneno":"17685070001"  "prov":"贵州"  "city":"贵阳"  "type":"中国联通 "
+ "phoneno":"17685080001"  "prov":"贵州"  "city":"贵阳"  "type":"中国联通 "
+ "phoneno":"17685090001"  "prov":"贵州"  "city":"贵阳"  "type":"中国联通 "
+ "phoneno":"17685100001"  "prov":"贵州"  "city":"贵阳"  "type":"中国联通 "
+ "phoneno":"17685110001"  "prov":"贵州"  "city":"贵阳"  "type":"中国联通 "
+ "phoneno":"17685120001"  "prov":"贵州"  "city":"遵义"  "type":"中国联通 "
+ "phoneno":"17685130001"  "prov":"贵州"  "city":"安顺"  "type":"中国联通 "
+ "phoneno":"17685140001"  "prov":"贵州"  "city":"都匀"  "type":"中国联通 "
+ "phoneno":"17685150001"  "prov":"贵州"  "city":"凯里"  "type":"中国联通 "
+ "phoneno":"17685160001"  "prov":"贵州"  "city":"铜仁"  "type":"中国联通 "
+ "phoneno":"17685170001"  "prov":"贵州"  "city":"毕节"  "type":"中国联通 "
+ "phoneno":"17685180001"  "prov":"贵州"  "city":"六盘水"  "type":"中国联通 "
+ "phoneno":"17685190001"  "prov":"贵州"  "city":"兴义"  "type":"中国联通 "
+ "phoneno":"17685200001"  "prov":"贵州"  "city":"遵义"  "type":"中国联通 "
+ "phoneno":"17685210001"  "prov":"贵州"  "city":"遵义"  "type":"中国联通 "
+ "phoneno":"17685220001"  "prov":"贵州"  "city":"六盘水"  "type":"中国联通 "
+ "phoneno":"17685230001"  "prov":"贵州"  "city":"安顺"  "type":"中国联通 "
+ "phoneno":"17685240001"  "prov":"贵州"  "city":"遵义"  "type":"中国联通 "
+ "phoneno":"17685250001"  "prov":"贵州"  "city":"凯里"  "type":"中国联通 "
+ "phoneno":"17685260001"  "prov":"贵州"  "city":"都匀"  "type":"中国联通 "
+ "phoneno":"17685270001"  "prov":"贵州"  "city":"毕节"  "type":"中国联通 "
+ "phoneno":"17685280001"  "prov":"贵州"  "city":"六盘水"  "type":"中国联通 "
+ "phoneno":"17685290001"  "prov":"贵州"  "city":"兴义"  "type":"中国联通 "
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ "phoneno":"17685500001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17685510001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17685520001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17685530001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17685540001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17685550001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17685560001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17685570001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17685580001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17685590001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17685600001"  "prov":"山东"  "city":"淄博"  "type":"中国联通 "
+ "phoneno":"17685610001"  "prov":"山东"  "city":"淄博"  "type":"中国联通 "
+ "phoneno":"17685620001"  "prov":"山东"  "city":"淄博"  "type":"中国联通 "
+ "phoneno":"17685630001"  "prov":"山东"  "city":"淄博"  "type":"中国联通 "
+ "phoneno":"17685640001"  "prov":"山东"  "city":"淄博"  "type":"中国联通 "
+ "phoneno":"17685650001"  "prov":"山东"  "city":"淄博"  "type":"中国联通 "
+ "phoneno":"17685660001"  "prov":"山东"  "city":"淄博"  "type":"中国联通 "
+ "phoneno":"17685670001"  "prov":"山东"  "city":"淄博"  "type":"中国联通 "
+ "phoneno":"17685680001"  "prov":"山东"  "city":"淄博"  "type":"中国联通 "
+ "phoneno":"17685690001"  "prov":"山东"  "city":"淄博"  "type":"中国联通 "
+ "phoneno":"17685700001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17685710001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17685720001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17685730001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17685740001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17685750001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17685760001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17685770001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17685780001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17685790001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17685800001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17685810001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17685820001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17685830001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17685840001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17685850001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17685860001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17685870001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17685880001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17685890001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17685900001"  "prov":"山东"  "city":"潍坊"  "type":"中国联通 "
+ "phoneno":"17685910001"  "prov":"山东"  "city":"潍坊"  "type":"中国联通 "
+ "phoneno":"17685920001"  "prov":"山东"  "city":"潍坊"  "type":"中国联通 "
+ "phoneno":"17685930001"  "prov":"山东"  "city":"潍坊"  "type":"中国联通 "
+ "phoneno":"17685940001"  "prov":"山东"  "city":"潍坊"  "type":"中国联通 "
+ "phoneno":"17685950001"  "prov":"山东"  "city":"潍坊"  "type":"中国联通 "
+ "phoneno":"17685960001"  "prov":"山东"  "city":"潍坊"  "type":"中国联通 "
+ "phoneno":"17685970001"  "prov":"山东"  "city":"潍坊"  "type":"中国联通 "
+ "phoneno":"17685980001"  "prov":"山东"  "city":"潍坊"  "type":"中国联通 "
+ "phoneno":"17685990001"  "prov":"山东"  "city":"潍坊"  "type":"中国联通 "
+ "phoneno":"17686000001"  "prov":"山东"  "city":"烟台"  "type":"中国联通 "
+ "phoneno":"17686010001"  "prov":"山东"  "city":"烟台"  "type":"中国联通 "
+ "phoneno":"17686020001"  "prov":"山东"  "city":"烟台"  "type":"中国联通 "
+ "phoneno":"17686030001"  "prov":"山东"  "city":"烟台"  "type":"中国联通 "
+ "phoneno":"17686040001"  "prov":"山东"  "city":"烟台"  "type":"中国联通 "
+ "phoneno":"17686050001"  "prov":"山东"  "city":"烟台"  "type":"中国联通 "
+ "phoneno":"17686060001"  "prov":"山东"  "city":"烟台"  "type":"中国联通 "
+ "phoneno":"17686070001"  "prov":"山东"  "city":"烟台"  "type":"中国联通 "
+ "phoneno":"17686080001"  "prov":"山东"  "city":"烟台"  "type":"中国联通 "
+ "phoneno":"17686090001"  "prov":"山东"  "city":"烟台"  "type":"中国联通 "
+ "phoneno":"17686100001"  "prov":"山东"  "city":"济宁"  "type":"中国联通 "
+ "phoneno":"17686110001"  "prov":"山东"  "city":"济宁"  "type":"中国联通 "
+ "phoneno":"17686120001"  "prov":"山东"  "city":"济宁"  "type":"中国联通 "
+ "phoneno":"17686130001"  "prov":"山东"  "city":"济宁"  "type":"中国联通 "
+ "phoneno":"17686140001"  "prov":"山东"  "city":"济宁"  "type":"中国联通 "
+ "phoneno":"17686150001"  "prov":"山东"  "city":"济宁"  "type":"中国联通 "
+ "phoneno":"17686160001"  "prov":"山东"  "city":"济宁"  "type":"中国联通 "
+ "phoneno":"17686170001"  "prov":"山东"  "city":"济宁"  "type":"中国联通 "
+ "phoneno":"17686180001"  "prov":"山东"  "city":"济宁"  "type":"中国联通 "
+ "phoneno":"17686190001"  "prov":"山东"  "city":"济宁"  "type":"中国联通 "
+ "phoneno":"17686200001"  "prov":"山东"  "city":"德州"  "type":"中国联通 "
+ "phoneno":"17686210001"  "prov":"山东"  "city":"德州"  "type":"中国联通 "
+ "phoneno":"17686220001"  "prov":"山东"  "city":"德州"  "type":"中国联通 "
+ "phoneno":"17686230001"  "prov":"山东"  "city":"日照"  "type":"中国联通 "
+ "phoneno":"17686240001"  "prov":"山东"  "city":"泰安"  "type":"中国联通 "
+ "phoneno":"17686250001"  "prov":"山东"  "city":"泰安"  "type":"中国联通 "
+ "phoneno":"17686260001"  "prov":"山东"  "city":"泰安"  "type":"中国联通 "
+ "phoneno":"17686270001"  "prov":"山东"  "city":"泰安"  "type":"中国联通 "
+ "phoneno":"17686280001"  "prov":"山东"  "city":"泰安"  "type":"中国联通 "
+ "phoneno":"17686290001"  "prov":"山东"  "city":"泰安"  "type":"中国联通 "
+ "phoneno":"17686300001"  "prov":"山东"  "city":"威海"  "type":"中国联通 "
+ "phoneno":"17686310001"  "prov":"山东"  "city":"威海"  "type":"中国联通 "
+ "phoneno":"17686320001"  "prov":"山东"  "city":"枣庄"  "type":"中国联通 "
+ "phoneno":"17686330001"  "prov":"山东"  "city":"日照"  "type":"中国联通 "
+ "phoneno":"17686340001"  "prov":"山东"  "city":"莱芜"  "type":"中国联通 "
+ "phoneno":"17686350001"  "prov":"山东"  "city":"聊城"  "type":"中国联通 "
+ "phoneno":"17686360001"  "prov":"山东"  "city":"潍坊"  "type":"中国联通 "
+ "phoneno":"17686370001"  "prov":"山东"  "city":"滨州"  "type":"中国联通 "
+ "phoneno":"17686380001"  "prov":"山东"  "city":"滨州"  "type":"中国联通 "
+ "phoneno":"17686390001"  "prov":"山东"  "city":"滨州"  "type":"中国联通 "
+ "phoneno":"17686400001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17686410001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17686420001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17686430001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17686440001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17686450001"  "prov":"山东"  "city":"青岛"  "type":"中国联通 "
+ "phoneno":"17686460001"  "prov":"山东"  "city":"潍坊"  "type":"中国联通 "
+ "phoneno":"17686470001"  "prov":"山东"  "city":"潍坊"  "type":"中国联通 "
+ "phoneno":"17686480001"  "prov":"山东"  "city":"烟台"  "type":"中国联通 "
+ "phoneno":"17686490001"  "prov":"山东"  "city":"烟台"  "type":"中国联通 "
+ "phoneno":"17686500001"  "prov":"山东"  "city":"菏泽"  "type":"中国联通 "
+ "phoneno":"17686510001"  "prov":"山东"  "city":"菏泽"  "type":"中国联通 "
+ "phoneno":"17686520001"  "prov":"山东"  "city":"菏泽"  "type":"中国联通 "
+ "phoneno":"17686530001"  "prov":"山东"  "city":"菏泽"  "type":"中国联通 "
+ "phoneno":"17686540001"  "prov":"山东"  "city":"东营"  "type":"中国联通 "
+ "phoneno":"17686550001"  "prov":"山东"  "city":"东营"  "type":"中国联通 "
+ "phoneno":"17686560001"  "prov":"山东"  "city":"东营"  "type":"中国联通 "
+ "phoneno":"17686570001"  "prov":"山东"  "city":"东营"  "type":"中国联通 "
+ "phoneno":"17686580001"  "prov":"山东"  "city":"东营"  "type":"中国联通 "
+ "phoneno":"17686590001"  "prov":"山东"  "city":"东营"  "type":"中国联通 "
+ "phoneno":"17686600001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17686610001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17686620001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17686630001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17686640001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17686650001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17686660001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17686670001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17686680001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17686690001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17686700001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17686710001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17686720001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17686730001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17686740001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17686750001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17686760001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17686770001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17686780001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17686790001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17686800001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17686810001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17686820001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17686830001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17686840001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17686850001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17686860001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17686870001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17686880001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17686890001"  "prov":"山东"  "city":"济南"  "type":"中国联通 "
+ "phoneno":"17686900001"  "prov":"山东"  "city":"临沂"  "type":"中国联通 "
+ "phoneno":"17686910001"  "prov":"山东"  "city":"临沂"  "type":"中国联通 "
+ "phoneno":"17686920001"  "prov":"山东"  "city":"临沂"  "type":"中国联通 "
+ "phoneno":"17686930001"  "prov":"山东"  "city":"临沂"  "type":"中国联通 "
+ "phoneno":"17686940001"  "prov":"山东"  "city":"临沂"  "type":"中国联通 "
+ "phoneno":"17686950001"  "prov":"山东"  "city":"临沂"  "type":"中国联通 "
+ "phoneno":"17686960001"  "prov":"山东"  "city":"临沂"  "type":"中国联通 "
+ "phoneno":"17686970001"  "prov":"山东"  "city":"临沂"  "type":"中国联通 "
+ "phoneno":"17686980001"  "prov":"山东"  "city":"临沂"  "type":"中国联通 "
+ "phoneno":"17686990001"  "prov":"山东"  "city":"临沂"  "type":"中国联通 "
+ "phoneno":"17687000001"  "prov":"云南"  "city":"昆明"  "type":"中国联通 "
+ "phoneno":"17687010001"  "prov":"云南"  "city":"昭通"  "type":"中国联通 "
+ "phoneno":"17687020001"  "prov":"云南"  "city":"大理"  "type":"中国联通 "
+ "phoneno":"17687030001"  "prov":"云南"  "city":"红河"  "type":"中国联通 "
+ "phoneno":"17687040001"  "prov":"云南"  "city":"昆明"  "type":"中国联通 "
+ "phoneno":"17687050001"  "prov":"云南"  "city":"保山"  "type":"中国联通 "
+ "phoneno":"17687060001"  "prov":"云南"  "city":"文山"  "type":"中国联通 "
+ "phoneno":"17687070001"  "prov":"云南"  "city":"玉溪"  "type":"中国联通 "
+ "phoneno":"17687080001"  "prov":"云南"  "city":"楚雄"  "type":"中国联通 "
+ "phoneno":"17687090001"  "prov":"云南"  "city":"思茅"  "type":"中国联通 "
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ "phoneno":"17687400001"  "prov":"广西"  "city":"防城港"  "type":"中国联通 "
+ "phoneno":"17687410001"  "prov":"广西"  "city":"南宁"  "type":"中国联通 "
+ "phoneno":"17687420001"  "prov":"广西"  "city":"柳州"  "type":"中国联通 "
+ "phoneno":"17687430001"  "prov":"广西"  "city":"桂林"  "type":"中国联通 "
+ "phoneno":"17687440001"  "prov":"广西"  "city":"梧州"  "type":"中国联通 "
+ "phoneno":"17687450001"  "prov":"广西"  "city":"玉林"  "type":"中国联通 "
+ "phoneno":"17687460001"  "prov":"广西"  "city":"百色"  "type":"中国联通 "
+ "phoneno":"17687470001"  "prov":"广西"  "city":"钦州"  "type":"中国联通 "
+ "phoneno":"17687480001"  "prov":"广西"  "city":"河池"  "type":"中国联通 "
+ "phoneno":"17687490001"  "prov":"广西"  "city":"贵港"  "type":"中国联通 "
+ "phoneno":"17687500001"  "prov":"广西"  "city":"南宁"  "type":"中国联通 "
+ "phoneno":"17687510001"  "prov":"广西"  "city":"崇左"  "type":"中国联通 "
+ "phoneno":"17687520001"  "prov":"广西"  "city":"来宾"  "type":"中国联通 "
+ "phoneno":"17687530001"  "prov":"广西"  "city":"桂林"  "type":"中国联通 "
+ "phoneno":"17687540001"  "prov":"广西"  "city":"贺州"  "type":"中国联通 "
+ "phoneno":"17687550001"  "prov":"广西"  "city":"贵港"  "type":"中国联通 "
+ "phoneno":"17687560001"  "prov":"广西"  "city":"柳州"  "type":"中国联通 "
+ "phoneno":"17687570001"  "prov":"广西"  "city":"柳州"  "type":"中国联通 "
+ "phoneno":"17687580001"  "prov":"广西"  "city":"玉林"  "type":"中国联通 "
+ "phoneno":"17687590001"  "prov":"广西"  "city":"北海"  "type":"中国联通 "
+ "phoneno":"17687600001"  "prov":"广西"  "city":"南宁"  "type":"中国联通 "
+ "phoneno":"17687610001"  "prov":"广西"  "city":"南宁"  "type":"中国联通 "
+ "phoneno":"17687620001"  "prov":"广西"  "city":"南宁"  "type":"中国联通 "
+ "phoneno":"17687630001"  "prov":"广西"  "city":"南宁"  "type":"中国联通 "
+ "phoneno":"17687640001"  "prov":"广西"  "city":"南宁"  "type":"中国联通 "
+ "phoneno":"17687650001"  "prov":"广西"  "city":"南宁"  "type":"中国联通 "
+ "phoneno":"17687660001"  "prov":"广西"  "city":"南宁"  "type":"中国联通 "
+ "phoneno":"17687670001"  "prov":"广西"  "city":"南宁"  "type":"中国联通 "
+ "phoneno":"17687680001"  "prov":"广西"  "city":"南宁"  "type":"中国联通 "
+ "phoneno":"17687690001"  "prov":"广西"  "city":"南宁"  "type":"中国联通 "
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ "phoneno":"17687900001"  "prov":"江西"  "city":"新余"  "type":"中国联通 "
+ "phoneno":"17687910001"  "prov":"江西"  "city":"南昌"  "type":"中国联通 "
+ "phoneno":"17687920001"  "prov":"江西"  "city":"九江"  "type":"中国联通 "
+ "phoneno":"17687930001"  "prov":"江西"  "city":"上饶"  "type":"中国联通 "
+ "phoneno":"17687940001"  "prov":"江西"  "city":"鹰潭"  "type":"中国联通 "
+ "phoneno":"17687950001"  "prov":"江西"  "city":"宜春"  "type":"中国联通 "
+ "phoneno":"17687960001"  "prov":"江西"  "city":"吉安"  "type":"中国联通 "
+ "phoneno":"17687970001"  "prov":"江西"  "city":"赣州"  "type":"中国联通 "
+ "phoneno":"17687980001"  "prov":"江西"  "city":"景德镇"  "type":"中国联通 "
+ "phoneno":"17687990001"  "prov":"江西"  "city":"萍乡"  "type":"中国联通 "
+ "phoneno":"17688000001"  "prov":"广东"  "city":"汕头"  "type":"中国联通 "
+ "phoneno":"17688010001"  "prov":"广东"  "city":"汕头"  "type":"中国联通 "
+ "phoneno":"17688020001"  "prov":"广东"  "city":"东莞"  "type":"中国联通 "
+ "phoneno":"17688030001"  "prov":"广东"  "city":"东莞"  "type":"中国联通 "
+ "phoneno":"17688040001"  "prov":"广东"  "city":"东莞"  "type":"中国联通 "
+ "phoneno":"17688050001"  "prov":"广东"  "city":"潮州"  "type":"中国联通 "
+ "phoneno":"17688060001"  "prov":"广东"  "city":"揭阳"  "type":"中国联通 "
+ "phoneno":"17688070001"  "prov":"广东"  "city":"汕尾"  "type":"中国联通 "
+ "phoneno":"17688080001"  "prov":"广东"  "city":"湛江"  "type":"中国联通 "
+ "phoneno":"17688090001"  "prov":"广东"  "city":"河源"  "type":"中国联通 "
+ "phoneno":"17688100001"  "prov":"广东"  "city":"中山"  "type":"中国联通 "
+ "phoneno":"17688110001"  "prov":"广东"  "city":"中山"  "type":"中国联通 "
+ "phoneno":"17688120001"  "prov":"广东"  "city":"中山"  "type":"中国联通 "
+ "phoneno":"17688130001"  "prov":"广东"  "city":"中山"  "type":"中国联通 "
+ "phoneno":"17688140001"  "prov":"广东"  "city":"中山"  "type":"中国联通 "
+ "phoneno":"17688150001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17688160001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17688170001"  "prov":"广东"  "city":"珠海"  "type":"中国联通 "
+ "phoneno":"17688180001"  "prov":"广东"  "city":"珠海"  "type":"中国联通 "
+ "phoneno":"17688190001"  "prov":"广东"  "city":"珠海"  "type":"中国联通 "
+ "phoneno":"17688200001"  "prov":"广东"  "city":"佛山"  "type":"中国联通 "
+ "phoneno":"17688210001"  "prov":"广东"  "city":"佛山"  "type":"中国联通 "
+ "phoneno":"17688220001"  "prov":"广东"  "city":"佛山"  "type":"中国联通 "
+ "phoneno":"17688230001"  "prov":"广东"  "city":"佛山"  "type":"中国联通 "
+ "phoneno":"17688240001"  "prov":"广东"  "city":"佛山"  "type":"中国联通 "
+ "phoneno":"17688250001"  "prov":"广东"  "city":"佛山"  "type":"中国联通 "
+ "phoneno":"17688260001"  "prov":"广东"  "city":"佛山"  "type":"中国联通 "
+ "phoneno":"17688270001"  "prov":"广东"  "city":"佛山"  "type":"中国联通 "
+ "phoneno":"17688280001"  "prov":"广东"  "city":"佛山"  "type":"中国联通 "
+ "phoneno":"17688290001"  "prov":"广东"  "city":"佛山"  "type":"中国联通 "
+ "phoneno":"17688300001"  "prov":"广东"  "city":"清远"  "type":"中国联通 "
+ "phoneno":"17688310001"  "prov":"广东"  "city":"惠州"  "type":"中国联通 "
+ "phoneno":"17688320001"  "prov":"广东"  "city":"惠州"  "type":"中国联通 "
+ "phoneno":"17688330001"  "prov":"广东"  "city":"惠州"  "type":"中国联通 "
+ "phoneno":"17688340001"  "prov":"广东"  "city":"惠州"  "type":"中国联通 "
+ "phoneno":"17688350001"  "prov":"广东"  "city":"阳江"  "type":"中国联通 "
+ "phoneno":"17688360001"  "prov":"广东"  "city":"茂名"  "type":"中国联通 "
+ "phoneno":"17688370001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17688380001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17688390001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17688400001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17688410001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17688420001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17688430001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17688440001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17688450001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17688460001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17688470001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17688480001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17688490001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17688500001"  "prov":"广东"  "city":"江门"  "type":"中国联通 "
+ "phoneno":"17688510001"  "prov":"广东"  "city":"韶关"  "type":"中国联通 "
+ "phoneno":"17688520001"  "prov":"广东"  "city":"江门"  "type":"中国联通 "
+ "phoneno":"17688530001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17688540001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17688550001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17688560001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17688570001"  "prov":"广东"  "city":"云浮"  "type":"中国联通 "
+ "phoneno":"17688580001"  "prov":"广东"  "city":"肇庆"  "type":"中国联通 "
+ "phoneno":"17688590001"  "prov":"广东"  "city":"梅州"  "type":"中国联通 "
+ "phoneno":"17688600001"  "prov":"广东"  "city":"东莞"  "type":"中国联通 "
+ "phoneno":"17688610001"  "prov":"广东"  "city":"东莞"  "type":"中国联通 "
+ "phoneno":"17688620001"  "prov":"广东"  "city":"东莞"  "type":"中国联通 "
+ "phoneno":"17688630001"  "prov":"广东"  "city":"东莞"  "type":"中国联通 "
+ "phoneno":"17688640001"  "prov":"广东"  "city":"东莞"  "type":"中国联通 "
+ "phoneno":"17688650001"  "prov":"广东"  "city":"东莞"  "type":"中国联通 "
+ "phoneno":"17688660001"  "prov":"广东"  "city":"东莞"  "type":"中国联通 "
+ "phoneno":"17688670001"  "prov":"广东"  "city":"东莞"  "type":"中国联通 "
+ "phoneno":"17688680001"  "prov":"广东"  "city":"东莞"  "type":"中国联通 "
+ "phoneno":"17688690001"  "prov":"广东"  "city":"东莞"  "type":"中国联通 "
+ "phoneno":"17688700001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17688710001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17688720001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17688730001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17688740001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17688750001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17688760001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17688770001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17688780001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17688790001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17688800001"  "prov":"广东"  "city":"佛山"  "type":"中国联通 "
+ "phoneno":"17688810001"  "prov":"广东"  "city":"东莞"  "type":"中国联通 "
+ "phoneno":"17688820001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17688830001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17688840001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17688850001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17688860001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17688870001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17688880001"  "prov":"广东"  "city":"广州"  "type":"中国联通 "
+ "phoneno":"17688890001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17688900001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17688910001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17688920001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17688930001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17688940001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17688950001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17688960001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17688970001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17688980001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17688990001"  "prov":"广东"  "city":"深圳"  "type":"中国联通 "
+ "phoneno":"17689000001"  "prov":"西藏"  "city":"拉萨"  "type":"中国联通 "
+ "phoneno":"17689010001"  "prov":"西藏"  "city":"拉萨"  "type":"中国联通 "
+ "phoneno":"17689020001"  "prov":"西藏"  "city":"日喀则"  "type":"中国联通 "
+ "phoneno":"17689030001"  "prov":"西藏"  "city":"山南"  "type":"中国联通 "
+ "phoneno":"17689040001"  "prov":"西藏"  "city":"林芝"  "type":"中国联通 "
+ "phoneno":"17689050001"  "prov":"西藏"  "city":"昌都"  "type":"中国联通 "
+ "phoneno":"17689060001"  "prov":"西藏"  "city":"那曲"  "type":"中国联通 "
+ "phoneno":"17689070001"  "prov":"西藏"  "city":"阿里"  "type":"中国联通 "
+ "phoneno":"17689080001"  "prov":"西藏"  "city":"拉萨"  "type":"中国联通 "
+ "phoneno":"17689090001"  "prov":"西藏"  "city":"拉萨"  "type":"中国联通 "
+ "phoneno":"17689100001"  "prov":"西藏"  "city":"拉萨"  "type":"中国联通 "
+ "phoneno":"17689110001"  "prov":"西藏"  "city":"拉萨"  "type":"中国联通 "
+ "phoneno":"17689120001"  "prov":"西藏"  "city":"日喀则"  "type":"中国联通 "
+ "phoneno":"17689130001"  "prov":"西藏"  "city":"山南"  "type":"中国联通 "
+ "phoneno":"17689140001"  "prov":"西藏"  "city":"林芝"  "type":"中国联通 "
+ "phoneno":"17689150001"  "prov":"西藏"  "city":"昌都"  "type":"中国联通 "
+ "phoneno":"17689160001"  "prov":"西藏"  "city":"那曲"  "type":"中国联通 "
+ "phoneno":"17689170001"  "prov":"西藏"  "city":"阿里"  "type":"中国联通 "
+ "phoneno":"17689180001"  "prov":"西藏"  "city":"拉萨"  "type":"中国联通 "
+ "phoneno":"17689190001"  "prov":"西藏"  "city":"拉萨"  "type":"中国联通 "
+ "phoneno":"17689200001"  "prov":"福建"  "city":"厦门"  "type":"中国联通 "
+ "phoneno":"17689210001"  "prov":"福建"  "city":"厦门"  "type":"中国联通 "
+ "phoneno":"17689220001"  "prov":"福建"  "city":"福州"  "type":"中国联通 "
+ "phoneno":"17689230001"  "prov":"福建"  "city":"莆田"  "type":"中国联通 "
+ "phoneno":"17689240001"  "prov":"福建"  "city":"漳州"  "type":"中国联通 "
+ "phoneno":"17689250001"  "prov":"福建"  "city":"福州"  "type":"中国联通 "
+ "phoneno":"17689260001"  "prov":"福建"  "city":"福州"  "type":"中国联通 "
+ "phoneno":"17689270001"  "prov":"福建"  "city":"福州"  "type":"中国联通 "
+ "phoneno":"17689280001"  "prov":"福建"  "city":"三明"  "type":"中国联通 "
+ "phoneno":"17689290001"  "prov":"福建"  "city":"龙岩"  "type":"中国联通 "
+ "phoneno":"17689300001"  "prov":"福建"  "city":"南平"  "type":"中国联通 "
+ "phoneno":"17689310001"  "prov":"福建"  "city":"宁德"  "type":"中国联通 "
+ "phoneno":"17689320001"  "prov":"福建"  "city":"厦门"  "type":"中国联通 "
+ "phoneno":"17689330001"  "prov":"福建"  "city":"厦门"  "type":"中国联通 "
+ "phoneno":"17689340001"  "prov":"福建"  "city":"南平"  "type":"中国联通 "
+ "phoneno":"17689350001"  "prov":"福建"  "city":"泉州"  "type":"中国联通 "
+ "phoneno":"17689360001"  "prov":"福建"  "city":"泉州"  "type":"中国联通 "
+ "phoneno":"17689370001"  "prov":"福建"  "city":"泉州"  "type":"中国联通 "
+ "phoneno":"17689380001"  "prov":"福建"  "city":"福州"  "type":"中国联通 "
+ "phoneno":"17689390001"  "prov":"福建"  "city":"莆田"  "type":"中国联通 "
+ "phoneno":"17689400001"  "prov":"福建"  "city":"福州"  "type":"中国联通 "
+ "phoneno":"17689410001"  "prov":"福建"  "city":"福州"  "type":"中国联通 "
+ "phoneno":"17689420001"  "prov":"福建"  "city":"福州"  "type":"中国联通 "
+ "phoneno":"17689430001"  "prov":"福建"  "city":"福州"  "type":"中国联通 "
+ "phoneno":"17689440001"  "prov":"福建"  "city":"福州"  "type":"中国联通 "
+ "phoneno":"17689450001"  "prov":"福建"  "city":"厦门"  "type":"中国联通 "
+ "phoneno":"17689460001"  "prov":"福建"  "city":"厦门"  "type":"中国联通 "
+ "phoneno":"17689470001"  "prov":"福建"  "city":"泉州"  "type":"中国联通 "
+ "phoneno":"17689480001"  "prov":"福建"  "city":"泉州"  "type":"中国联通 "
+ "phoneno":"17689490001"  "prov":"福建"  "city":"泉州"  "type":"中国联通 "
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ "phoneno":"17689800001"  "prov":"海南"  "city":"海口"  "type":"中国联通 "
+ "phoneno":"17689810001"  "prov":"海南"  "city":"海口"  "type":"中国联通 "
+ "phoneno":"17689820001"  "prov":"海南"  "city":"海口"  "type":"中国联通 "
+ "phoneno":"17689830001"  "prov":"海南"  "city":"海口"  "type":"中国联通 "
+ "phoneno":"17689840001"  "prov":"海南"  "city":"海口"  "type":"中国联通 "
+ "phoneno":"17689850001"  "prov":"海南"  "city":"海口"  "type":"中国联通 "
+ "phoneno":"17689860001"  "prov":"海南"  "city":"海口"  "type":"中国联通 "
+ "phoneno":"17689870001"  "prov":"海南"  "city":"海口"  "type":"中国联通 "
+ "phoneno":"17689880001"  "prov":"海南"  "city":"海口"  "type":"中国联通 "
+ "phoneno":"17689890001"  "prov":"海南"  "city":"海口"  "type":"中国联通 "
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ "phoneno":"17691000001"  "prov":"陕西"  "city":"西安"  "type":"中国联通 "
+ "phoneno":"17691010001"  "prov":"陕西"  "city":"西安"  "type":"中国联通 "
+ "phoneno":"17691020001"  "prov":"陕西"  "city":"西安"  "type":"中国联通 "
+ "phoneno":"17691030001"  "prov":"陕西"  "city":"西安"  "type":"中国联通 "
+ "phoneno":"17691040001"  "prov":"陕西"  "city":"西安"  "type":"中国联通 "
+ "phoneno":"17691050001"  "prov":"陕西"  "city":"西安"  "type":"中国联通 "
+ "phoneno":"17691060001"  "prov":"陕西"  "city":"西安"  "type":"中国联通 "
+ "phoneno":"17691070001"  "prov":"陕西"  "city":"西安"  "type":"中国联通 "
+ "phoneno":"17691080001"  "prov":"陕西"  "city":"西安"  "type":"中国联通 "
+ "phoneno":"17691090001"  "prov":"陕西"  "city":"西安"  "type":"中国联通 "
+ "phoneno":"17691100001"  "prov":"陕西"  "city":"西安"  "type":"中国联通 "
+ "phoneno":"17691110001"  "prov":"陕西"  "city":"西安"  "type":"中国联通 "
+ "phoneno":"17691120001"  "prov":"陕西"  "city":"西安"  "type":"中国联通 "
+ "phoneno":"17691130001"  "prov":"陕西"  "city":"西安"  "type":"中国联通 "
+ "phoneno":"17691140001"  "prov":"陕西"  "city":"西安"  "type":"中国联通 "
+ "phoneno":"17691150001"  "prov":"陕西"  "city":"西安"  "type":"中国联通 "
+ "phoneno":"17691160001"  "prov":"陕西"  "city":"西安"  "type":"中国联通 "
+ "phoneno":"17691170001"  "prov":"陕西"  "city":"西安"  "type":"中国联通 "
+ "phoneno":"17691180001"  "prov":"陕西"  "city":"西安"  "type":"中国联通 "
+ "phoneno":"17691190001"  "prov":"陕西"  "city":"西安"  "type":"中国联通 "
+ "phoneno":"17691200001"  "prov":"陕西"  "city":"西安"  "type":"中国联通 "
+ "phoneno":"17691210001"  "prov":"陕西"  "city":"西安"  "type":"中国联通 "
+ "phoneno":"17691220001"  "prov":"陕西"  "city":"西安"  "type":"中国联通 "
+ "phoneno":"17691230001"  "prov":"陕西"  "city":"西安"  "type":"中国联通 "
+ "phoneno":"17691240001"  "prov":"陕西"  "city":"西安"  "type":"中国联通 "
+ "phoneno":"17691250001"  "prov":"陕西"  "city":"安康"  "type":"中国联通 "
+ "phoneno":"17691260001"  "prov":"陕西"  "city":"汉中"  "type":"中国联通 "
+ "phoneno":"17691270001"  "prov":"陕西"  "city":"宝鸡"  "type":"中国联通 "
+ "phoneno":"17691280001"  "prov":"陕西"  "city":"商洛"  "type":"中国联通 "
+ "phoneno":"17691290001"  "prov":"陕西"  "city":"铜川"  "type":"中国联通 "
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ "phoneno":"17692000001"  "prov":"河北"  "city":"邯郸"  "type":"中国联通 "
+ "phoneno":"17692010001"  "prov":"河北"  "city":"邯郸"  "type":"中国联通 "
+ "phoneno":"17692020001"  "prov":"河北"  "city":"邯郸"  "type":"中国联通 "
+ "phoneno":"17692030001"  "prov":"河北"  "city":"邯郸"  "type":"中国联通 "
+ "phoneno":"17692040001"  "prov":"河北"  "city":"邯郸"  "type":"中国联通 "
+ "phoneno":"17692050001"  "prov":"河北"  "city":"邯郸"  "type":"中国联通 "
+ "phoneno":"17692060001"  "prov":"河北"  "city":"邯郸"  "type":"中国联通 "
+ "phoneno":"17692070001"  "prov":"河北"  "city":"衡水"  "type":"中国联通 "
+ "phoneno":"17692080001"  "prov":"河北"  "city":"衡水"  "type":"中国联通 "
+ "phoneno":"17692090001"  "prov":"河北"  "city":"衡水"  "type":"中国联通 "
+ "phoneno":"17692100001"  "prov":"河北"  "city":"石家庄"  "type":"中国联通 "
+ "phoneno":"17692110001"  "prov":"河北"  "city":"石家庄"  "type":"中国联通 "
+ "phoneno":"17692120001"  "prov":"河北"  "city":"石家庄"  "type":"中国联通 "
+ "phoneno":"17692130001"  "prov":"河北"  "city":"石家庄"  "type":"中国联通 "
+ "phoneno":"17692140001"  "prov":"河北"  "city":"石家庄"  "type":"中国联通 "
+ "phoneno":"17692150001"  "prov":"河北"  "city":"石家庄"  "type":"中国联通 "
+ "phoneno":"17692160001"  "prov":"河北"  "city":"石家庄"  "type":"中国联通 "
+ "phoneno":"17692170001"  "prov":"河北"  "city":"石家庄"  "type":"中国联通 "
+ "phoneno":"17692180001"  "prov":"河北"  "city":"石家庄"  "type":"中国联通 "
+ "phoneno":"17692190001"  "prov":"河北"  "city":"石家庄"  "type":"中国联通 "
+ "phoneno":"17692200001"  "prov":"河北"  "city":"保定"  "type":"中国联通 "
+ "phoneno":"17692210001"  "prov":"河北"  "city":"保定"  "type":"中国联通 "
+ "phoneno":"17692220001"  "prov":"河北"  "city":"保定"  "type":"中国联通 "
+ "phoneno":"17692230001"  "prov":"河北"  "city":"保定"  "type":"中国联通 "
+ "phoneno":"17692240001"  "prov":"河北"  "city":"保定"  "type":"中国联通 "
+ "phoneno":"17692250001"  "prov":"河北"  "city":"保定"  "type":"中国联通 "
+ "phoneno":"17692260001"  "prov":"河北"  "city":"保定"  "type":"中国联通 "
+ "phoneno":"17692270001"  "prov":"河北"  "city":"保定"  "type":"中国联通 "
+ "phoneno":"17692280001"  "prov":"河北"  "city":"保定"  "type":"中国联通 "
+ "phoneno":"17692290001"  "prov":"河北"  "city":"保定"  "type":"中国联通 "
+ "phoneno":"17692300001"  "prov":"河北"  "city":"张家口"  "type":"中国联通 "
+ "phoneno":"17692310001"  "prov":"河北"  "city":"张家口"  "type":"中国联通 "
+ "phoneno":"17692320001"  "prov":"河北"  "city":"张家口"  "type":"中国联通 "
+ "phoneno":"17692330001"  "prov":"河北"  "city":"保定"  "type":"中国联通 "
+ "phoneno":"17692340001"  "prov":"河北"  "city":"保定"  "type":"中国联通 "
+ "phoneno":"17692350001"  "prov":"河北"  "city":"保定"  "type":"中国联通 "
+ "phoneno":"17692360001"  "prov":"河北"  "city":"保定"  "type":"中国联通 "
+ "phoneno":"17692370001"  "prov":"河北"  "city":"保定"  "type":"中国联通 "
+ "phoneno":"17692380001"  "prov":"河北"  "city":"保定"  "type":"中国联通 "
+ "phoneno":"17692390001"  "prov":"河北"  "city":"石家庄"  "type":"中国联通 "
+ "phoneno":"17692400001"  "prov":"河北"  "city":"石家庄"  "type":"中国联通 "
+ "phoneno":"17692410001"  "prov":"河北"  "city":"石家庄"  "type":"中国联通 "
+ "phoneno":"17692420001"  "prov":"河北"  "city":"保定"  "type":"中国联通 "
+ "phoneno":"17692430001"  "prov":"河北"  "city":"张家口"  "type":"中国联通 "
+ "phoneno":"17692440001"  "prov":"河北"  "city":"承德"  "type":"中国联通 "
+ "phoneno":"17692450001"  "prov":"河北"  "city":"唐山"  "type":"中国联通 "
+ "phoneno":"17692460001"  "prov":"河北"  "city":"秦皇岛"  "type":"中国联通 "
+ "phoneno":"17692470001"  "prov":"河北"  "city":"沧州"  "type":"中国联通 "
+ "phoneno":"17692480001"  "prov":"河北"  "city":"衡水"  "type":"中国联通 "
+ "phoneno":"17692490001"  "prov":"河北"  "city":"邢台"  "type":"中国联通 "
+ "phoneno":"17692500001"  "prov":"河北"  "city":"唐山"  "type":"中国联通 "
+ "phoneno":"17692510001"  "prov":"河北"  "city":"唐山"  "type":"中国联通 "
+ "phoneno":"17692520001"  "prov":"河北"  "city":"唐山"  "type":"中国联通 "
+ "phoneno":"17692530001"  "prov":"河北"  "city":"唐山"  "type":"中国联通 "
+ "phoneno":"17692540001"  "prov":"河北"  "city":"唐山"  "type":"中国联通 "
+ "phoneno":"17692550001"  "prov":"河北"  "city":"唐山"  "type":"中国联通 "
+ "phoneno":"17692560001"  "prov":"河北"  "city":"唐山"  "type":"中国联通 "
+ "phoneno":"17692570001"  "prov":"河北"  "city":"唐山"  "type":"中国联通 "
+ "phoneno":"17692580001"  "prov":"河北"  "city":"唐山"  "type":"中国联通 "
+ "phoneno":"17692590001"  "prov":"河北"  "city":"唐山"  "type":"中国联通 "
+ "phoneno":"17692600001"  "prov":"河北"  "city":"廊坊"  "type":"中国联通 "
+ "phoneno":"17692610001"  "prov":"河北"  "city":"廊坊"  "type":"中国联通 "
+ "phoneno":"17692620001"  "prov":"河北"  "city":"廊坊"  "type":"中国联通 "
+ "phoneno":"17692630001"  "prov":"河北"  "city":"廊坊"  "type":"中国联通 "
+ "phoneno":"17692640001"  "prov":"河北"  "city":"廊坊"  "type":"中国联通 "
+ "phoneno":"17692650001"  "prov":"河北"  "city":"廊坊"  "type":"中国联通 "
+ "phoneno":"17692660001"  "prov":"河北"  "city":"廊坊"  "type":"中国联通 "
+ "phoneno":"17692670001"  "prov":"河北"  "city":"邢台"  "type":"中国联通 "
+ "phoneno":"17692680001"  "prov":"河北"  "city":"邢台"  "type":"中国联通 "
+ "phoneno":"17692690001"  "prov":"河北"  "city":"邢台"  "type":"中国联通 "
+ "phoneno":"17692700001"  "prov":"河北"  "city":"邢台"  "type":"中国联通 "
+ "phoneno":"17692710001"  "prov":"河北"  "city":"邢台"  "type":"中国联通 "
+ "phoneno":"17692720001"  "prov":"河北"  "city":"沧州"  "type":"中国联通 "
+ "phoneno":"17692730001"  "prov":"河北"  "city":"沧州"  "type":"中国联通 "
+ "phoneno":"17692740001"  "prov":"河北"  "city":"沧州"  "type":"中国联通 "
+ "phoneno":"17692750001"  "prov":"河北"  "city":"沧州"  "type":"中国联通 "
+ "phoneno":"17692760001"  "prov":"河北"  "city":"沧州"  "type":"中国联通 "
+ "phoneno":"17692770001"  "prov":"河北"  "city":"沧州"  "type":"中国联通 "
+ "phoneno":"17692780001"  "prov":"河北"  "city":"沧州"  "type":"中国联通 "
+ "phoneno":"17692790001"  "prov":"河北"  "city":"沧州"  "type":"中国联通 "
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ "phoneno":"17693000001"  "prov":"甘肃"  "city":"临夏"  "type":"中国联通 "
+ "phoneno":"17693010001"  "prov":"甘肃"  "city":"庆阳"  "type":"中国联通 "
+ "phoneno":"17693020001"  "prov":"甘肃"  "city":"定西"  "type":"中国联通 "
+ "phoneno":"17693030001"  "prov":"甘肃"  "city":"平凉"  "type":"中国联通 "
+ "phoneno":"17693040001"  "prov":"甘肃"  "city":"庆阳"  "type":"中国联通 "
+ "phoneno":"17693050001"  "prov":"甘肃"  "city":"武威"  "type":"中国联通 "
+ "phoneno":"17693060001"  "prov":"甘肃"  "city":"张掖"  "type":"中国联通 "
+ "phoneno":"17693070001"  "prov":"甘肃"  "city":"酒泉"  "type":"中国联通 "
+ "phoneno":"17693080001"  "prov":"甘肃"  "city":"天水"  "type":"中国联通 "
+ "phoneno":"17693090001"  "prov":"甘肃"  "city":"陇南"  "type":"中国联通 "
+ "phoneno":"17693100001"  "prov":"甘肃"  "city":"兰州"  "type":"中国联通 "
+ "phoneno":"17693110001"  "prov":"甘肃"  "city":"兰州"  "type":"中国联通 "
+ "phoneno":"17693120001"  "prov":"甘肃"  "city":"兰州"  "type":"中国联通 "
+ "phoneno":"17693130001"  "prov":"甘肃"  "city":"兰州"  "type":"中国联通 "
+ "phoneno":"17693140001"  "prov":"甘肃"  "city":"兰州"  "type":"中国联通 "
+ "phoneno":"17693150001"  "prov":"甘肃"  "city":"兰州"  "type":"中国联通 "
+ "phoneno":"17693160001"  "prov":"甘肃"  "city":"兰州"  "type":"中国联通 "
+ "phoneno":"17693170001"  "prov":"甘肃"  "city":"兰州"  "type":"中国联通 "
+ "phoneno":"17693180001"  "prov":"甘肃"  "city":"兰州"  "type":"中国联通 "
+ "phoneno":"17693190001"  "prov":"甘肃"  "city":"兰州"  "type":"中国联通 "
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ "phoneno":"17695000001"  "prov":"宁夏"  "city":"银川"  "type":"中国联通 "
+ "phoneno":"17695010001"  "prov":"宁夏"  "city":"银川"  "type":"中国联通 "
+ "phoneno":"17695020001"  "prov":"宁夏"  "city":"石嘴山"  "type":"中国联通 "
+ "phoneno":"17695030001"  "prov":"宁夏"  "city":"吴忠"  "type":"中国联通 "
+ "phoneno":"17695040001"  "prov":"宁夏"  "city":"固原"  "type":"中国联通 "
+ "phoneno":"17695050001"  "prov":"宁夏"  "city":"中卫"  "type":"中国联通 "
+ "phoneno":"17695060001"  "prov":"宁夏"  "city":"吴忠"  "type":"中国联通 "
+ "phoneno":"17695070001"  "prov":"宁夏"  "city":"银川"  "type":"中国联通 "
+ "phoneno":"17695080001"  "prov":"宁夏"  "city":"银川"  "type":"中国联通 "
+ "phoneno":"17695090001"  "prov":"宁夏"  "city":"银川"  "type":"中国联通 "
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ "phoneno":"17696000001"  "prov":"山西"  "city":"太原"  "type":"中国联通 "
+ "phoneno":"17696010001"  "prov":"山西"  "city":"太原"  "type":"中国联通 "
+ "phoneno":"17696020001"  "prov":"山西"  "city":"太原"  "type":"中国联通 "
+ "phoneno":"17696030001"  "prov":"山西"  "city":"太原"  "type":"中国联通 "
+ "phoneno":"17696040001"  "prov":"山西"  "city":"太原"  "type":"中国联通 "
+ "phoneno":"17696050001"  "prov":"山西"  "city":"太原"  "type":"中国联通 "
+ "phoneno":"17696060001"  "prov":"山西"  "city":"太原"  "type":"中国联通 "
+ "phoneno":"17696070001"  "prov":"山西"  "city":"太原"  "type":"中国联通 "
+ "phoneno":"17696080001"  "prov":"山西"  "city":"太原"  "type":"中国联通 "
+ "phoneno":"17696090001"  "prov":"山西"  "city":"太原"  "type":"中国联通 "
+ "phoneno":"17696100001"  "prov":"山西"  "city":"太原"  "type":"中国联通 "
+ "phoneno":"17696110001"  "prov":"山西"  "city":"太原"  "type":"中国联通 "
+ "phoneno":"17696120001"  "prov":"山西"  "city":"朔州"  "type":"中国联通 "
+ "phoneno":"17696130001"  "prov":"山西"  "city":"大同"  "type":"中国联通 "
+ "phoneno":"17696140001"  "prov":"山西"  "city":"临汾"  "type":"中国联通 "
+ "phoneno":"17696150001"  "prov":"山西"  "city":"长治"  "type":"中国联通 "
+ "phoneno":"17696160001"  "prov":"山西"  "city":"晋中"  "type":"中国联通 "
+ "phoneno":"17696170001"  "prov":"山西"  "city":"晋中"  "type":"中国联通 "
+ "phoneno":"17696180001"  "prov":"山西"  "city":"临汾"  "type":"中国联通 "
+ "phoneno":"17696190001"  "prov":"山西"  "city":"大同"  "type":"中国联通 "
+ "phoneno":"17696200001"  "prov":"山西"  "city":"吕梁"  "type":"中国联通 "
+ "phoneno":"17696210001"  "prov":"山西"  "city":"吕梁"  "type":"中国联通 "
+ "phoneno":"17696220001"  "prov":"山西"  "city":"运城"  "type":"中国联通 "
+ "phoneno":"17696230001"  "prov":"山西"  "city":"忻州"  "type":"中国联通 "
+ "phoneno":"17696240001"  "prov":"山西"  "city":"运城"  "type":"中国联通 "
+ "phoneno":"17696250001"  "prov":"山西"  "city":"运城"  "type":"中国联通 "
+ "phoneno":"17696260001"  "prov":"山西"  "city":"晋中"  "type":"中国联通 "
+ "phoneno":"17696270001"  "prov":"山西"  "city":"长治"  "type":"中国联通 "
+ "phoneno":"17696280001"  "prov":"山西"  "city":"临汾"  "type":"中国联通 "
+ "phoneno":"17696290001"  "prov":"山西"  "city":"运城"  "type":"中国联通 "
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ "phoneno":"17697000001"  "prov":"青海"  "city":"海北"  "type":"中国联通 "
+ "phoneno":"17697010001"  "prov":"青海"  "city":"西宁"  "type":"中国联通 "
+ "phoneno":"17697020001"  "prov":"青海"  "city":"海东"  "type":"中国联通 "
+ "phoneno":"17697030001"  "prov":"青海"  "city":"黄南"  "type":"中国联通 "
+ "phoneno":"17697040001"  "prov":"青海"  "city":"海南"  "type":"中国联通 "
+ "phoneno":"17697050001"  "prov":"青海"  "city":"果洛"  "type":"中国联通 "
+ "phoneno":"17697060001"  "prov":"青海"  "city":"玉树"  "type":"中国联通 "
+ "phoneno":"17697070001"  "prov":"青海"  "city":"海西"  "type":"中国联通 "
+ "phoneno":"17697080001"  "prov":"青海"  "city":"西宁"  "type":"中国联通 "
+ "phoneno":"17697090001"  "prov":"青海"  "city":"格尔木"  "type":"中国联通 "
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ "phoneno":"17698000001"  "prov":"河南"  "city":"许昌"  "type":"中国联通 "
+ "phoneno":"17698010001"  "prov":"河南"  "city":"许昌"  "type":"中国联通 "
+ "phoneno":"17698020001"  "prov":"河南"  "city":"许昌"  "type":"中国联通 "
+ "phoneno":"17698030001"  "prov":"河南"  "city":"许昌"  "type":"中国联通 "
+ "phoneno":"17698040001"  "prov":"河南"  "city":"开封"  "type":"中国联通 "
+ "phoneno":"17698050001"  "prov":"河南"  "city":"开封"  "type":"中国联通 "
+ "phoneno":"17698060001"  "prov":"河南"  "city":"郑州"  "type":"中国联通 "
+ "phoneno":"17698070001"  "prov":"河南"  "city":"郑州"  "type":"中国联通 "
+ "phoneno":"17698080001"  "prov":"河南"  "city":"郑州"  "type":"中国联通 "
+ "phoneno":"17698090001"  "prov":"河南"  "city":"郑州"  "type":"中国联通 "
+ "phoneno":"17698100001"  "prov":"河南"  "city":"郑州"  "type":"中国联通 "
+ "phoneno":"17698110001"  "prov":"河南"  "city":"郑州"  "type":"中国联通 "
+ "phoneno":"17698120001"  "prov":"河南"  "city":"郑州"  "type":"中国联通 "
+ "phoneno":"17698130001"  "prov":"河南"  "city":"郑州"  "type":"中国联通 "
+ "phoneno":"17698140001"  "prov":"河南"  "city":"郑州"  "type":"中国联通 "
+ "phoneno":"17698150001"  "prov":"河南"  "city":"郑州"  "type":"中国联通 "
+ "phoneno":"17698160001"  "prov":"河南"  "city":"郑州"  "type":"中国联通 "
+ "phoneno":"17698170001"  "prov":"河南"  "city":"郑州"  "type":"中国联通 "
+ "phoneno":"17698180001"  "prov":"河南"  "city":"郑州"  "type":"中国联通 "
+ "phoneno":"17698190001"  "prov":"河南"  "city":"郑州"  "type":"中国联通 "
+ "phoneno":"17698200001"  "prov":"河南"  "city":"三门峡"  "type":"中国联通 "
+ "phoneno":"17698210001"  "prov":"河南"  "city":"新乡"  "type":"中国联通 "
+ "phoneno":"17698220001"  "prov":"河南"  "city":"新乡"  "type":"中国联通 "
+ "phoneno":"17698230001"  "prov":"河南"  "city":"新乡"  "type":"中国联通 "
+ "phoneno":"17698240001"  "prov":"河南"  "city":"新乡"  "type":"中国联通 "
+ "phoneno":"17698250001"  "prov":"河南"  "city":"开封"  "type":"中国联通 "
+ "phoneno":"17698260001"  "prov":"河南"  "city":"平顶山"  "type":"中国联通 "
+ "phoneno":"17698270001"  "prov":"河南"  "city":"平顶山"  "type":"中国联通 "
+ "phoneno":"17698280001"  "prov":"河南"  "city":"平顶山"  "type":"中国联通 "
+ "phoneno":"17698290001"  "prov":"河南"  "city":"濮阳"  "type":"中国联通 "
+ "phoneno":"17698300001"  "prov":"河南"  "city":"安阳"  "type":"中国联通 "
+ "phoneno":"17698310001"  "prov":"河南"  "city":"安阳"  "type":"中国联通 "
+ "phoneno":"17698320001"  "prov":"河南"  "city":"安阳"  "type":"中国联通 "
+ "phoneno":"17698330001"  "prov":"河南"  "city":"安阳"  "type":"中国联通 "
+ "phoneno":"17698340001"  "prov":"河南"  "city":"安阳"  "type":"中国联通 "
+ "phoneno":"17698350001"  "prov":"河南"  "city":"周口"  "type":"中国联通 "
+ "phoneno":"17698360001"  "prov":"河南"  "city":"周口"  "type":"中国联通 "
+ "phoneno":"17698370001"  "prov":"河南"  "city":"南阳"  "type":"中国联通 "
+ "phoneno":"17698380001"  "prov":"河南"  "city":"南阳"  "type":"中国联通 "
+ "phoneno":"17698390001"  "prov":"河南"  "city":"南阳"  "type":"中国联通 "
+ "phoneno":"17698400001"  "prov":"河南"  "city":"南阳"  "type":"中国联通 "
+ "phoneno":"17698410001"  "prov":"河南"  "city":"南阳"  "type":"中国联通 "
+ "phoneno":"17698420001"  "prov":"河南"  "city":"商丘"  "type":"中国联通 "
+ "phoneno":"17698430001"  "prov":"河南"  "city":"商丘"  "type":"中国联通 "
+ "phoneno":"17698440001"  "prov":"河南"  "city":"郑州"  "type":"中国联通 "
+ "phoneno":"17698450001"  "prov":"河南"  "city":"郑州"  "type":"中国联通 "
+ "phoneno":"17698460001"  "prov":"河南"  "city":"郑州"  "type":"中国联通 "
+ "phoneno":"17698470001"  "prov":"河南"  "city":"郑州"  "type":"中国联通 "
+ "phoneno":"17698480001"  "prov":"河南"  "city":"郑州"  "type":"中国联通 "
+ "phoneno":"17698490001"  "prov":"河南"  "city":"郑州"  "type":"中国联通 "
+ "phoneno":"17698500001"  "prov":"河南"  "city":"洛阳"  "type":"中国联通 "
+ "phoneno":"17698510001"  "prov":"河南"  "city":"洛阳"  "type":"中国联通 "
+ "phoneno":"17698520001"  "prov":"河南"  "city":"洛阳"  "type":"中国联通 "
+ "phoneno":"17698530001"  "prov":"河南"  "city":"洛阳"  "type":"中国联通 "
+ "phoneno":"17698540001"  "prov":"河南"  "city":"洛阳"  "type":"中国联通 "
+ "phoneno":"17698550001"  "prov":"河南"  "city":"商丘"  "type":"中国联通 "
+ "phoneno":"17698560001"  "prov":"河南"  "city":"商丘"  "type":"中国联通 "
+ "phoneno":"17698570001"  "prov":"河南"  "city":"商丘"  "type":"中国联通 "
+ "phoneno":"17698580001"  "prov":"河南"  "city":"周口"  "type":"中国联通 "
+ "phoneno":"17698590001"  "prov":"河南"  "city":"周口"  "type":"中国联通 "
+ "phoneno":"17698600001"  "prov":"河南"  "city":"郑州"  "type":"中国联通 "
+ "phoneno":"17698610001"  "prov":"河南"  "city":"郑州"  "type":"中国联通 "
+ "phoneno":"17698620001"  "prov":"河南"  "city":"郑州"  "type":"中国联通 "
+ "phoneno":"17698630001"  "prov":"河南"  "city":"郑州"  "type":"中国联通 "
+ "phoneno":"17698640001"  "prov":"河南"  "city":"郑州"  "type":"中国联通 "
+ "phoneno":"17698650001"  "prov":"河南"  "city":"郑州"  "type":"中国联通 "
+ "phoneno":"17698660001"  "prov":"河南"  "city":"郑州"  "type":"中国联通 "
+ "phoneno":"17698670001"  "prov":"河南"  "city":"郑州"  "type":"中国联通 "
+ "phoneno":"17698680001"  "prov":"河南"  "city":"郑州"  "type":"中国联通 "
+ "phoneno":"17698690001"  "prov":"河南"  "city":"郑州"  "type":"中国联通 "
+ "phoneno":"17698700001"  "prov":"河南"  "city":"焦作"  "type":"中国联通 "
+ "phoneno":"17698710001"  "prov":"河南"  "city":"焦作"  "type":"中国联通 "
+ "phoneno":"17698720001"  "prov":"河南"  "city":"焦作"  "type":"中国联通 "
+ "phoneno":"17698730001"  "prov":"河南"  "city":"信阳"  "type":"中国联通 "
+ "phoneno":"17698740001"  "prov":"河南"  "city":"信阳"  "type":"中国联通 "
+ "phoneno":"17698750001"  "prov":"河南"  "city":"信阳"  "type":"中国联通 "
+ "phoneno":"17698760001"  "prov":"河南"  "city":"驻马店"  "type":"中国联通 "
+ "phoneno":"17698770001"  "prov":"河南"  "city":"驻马店"  "type":"中国联通 "
+ "phoneno":"17698780001"  "prov":"河南"  "city":"驻马店"  "type":"中国联通 "
+ "phoneno":"17698790001"  "prov":"河南"  "city":"漯河"  "type":"中国联通 "
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ "phoneno":"17699000001"  "prov":"新疆"  "city":"克拉玛依"  "type":"中国联通 "
+ "phoneno":"17699010001"  "prov":"新疆"  "city":"塔城"  "type":"中国联通 "
+ "phoneno":"17699020001"  "prov":"新疆"  "city":"哈密"  "type":"中国联通 "
+ "phoneno":"17699030001"  "prov":"新疆"  "city":"和田"  "type":"中国联通 "
+ "phoneno":"17699040001"  "prov":"新疆"  "city":"乌鲁木齐"  "type":"中国联通 "
+ "phoneno":"17699050001"  "prov":"新疆"  "city":"乌鲁木齐"  "type":"中国联通 "
+ "phoneno":"17699060001"  "prov":"新疆"  "city":"阿勒泰"  "type":"中国联通 "
+ "phoneno":"17699070001"  "prov":"新疆"  "city":"乌鲁木齐"  "type":"中国联通 "
+ "phoneno":"17699080001"  "prov":"新疆"  "city":"克州"  "type":"中国联通 "
+ "phoneno":"17699090001"  "prov":"新疆"  "city":"博乐"  "type":"中国联通 "
+ "phoneno":"17699100001"  "prov":"新疆"  "city":"乌鲁木齐"  "type":"中国联通 "
+ "phoneno":"17699110001"  "prov":"新疆"  "city":"乌鲁木齐"  "type":"中国联通 "
+ "phoneno":"17699120001"  "prov":"新疆"  "city":"奎屯"  "type":"中国联通 "
+ "phoneno":"17699130001"  "prov":"新疆"  "city":"石河子"  "type":"中国联通 "
+ "phoneno":"17699140001"  "prov":"新疆"  "city":"喀什"  "type":"中国联通 "
+ "phoneno":"17699150001"  "prov":"新疆"  "city":"吐鲁番"  "type":"中国联通 "
+ "phoneno":"17699160001"  "prov":"新疆"  "city":"库尔勒"  "type":"中国联通 "
+ "phoneno":"17699170001"  "prov":"新疆"  "city":"阿克苏"  "type":"中国联通 "
+ "phoneno":"17699180001"  "prov":"新疆"  "city":"喀什"  "type":"中国联通 "
+ "phoneno":"17699190001"  "prov":"新疆"  "city":"喀什"  "type":"中国联通 "
+ "phoneno":"17699200001"  "prov":"新疆"  "city":"昌吉"  "type":"中国联通 "
+ "phoneno":"17699210001"  "prov":"新疆"  "city":"昌吉"  "type":"中国联通 "
+ "phoneno":"17699220001"  "prov":"新疆"  "city":"昌吉"  "type":"中国联通 "
+ "phoneno":"17699230001"  "prov":"新疆"  "city":"库尔勒"  "type":"中国联通 "
+ "phoneno":"17699240001"  "prov":"新疆"  "city":"库尔勒"  "type":"中国联通 "
+ "phoneno":"17699250001"  "prov":"新疆"  "city":"阿克苏"  "type":"中国联通 "
+ "phoneno":"17699260001"  "prov":"新疆"  "city":"伊犁"  "type":"中国联通 "
+ "phoneno":"17699270001"  "prov":"新疆"  "city":"伊犁"  "type":"中国联通 "
+ "phoneno":"17699280001"  "prov":"新疆"  "city":"阿克苏"  "type":"中国联通 "
+ "phoneno":"17699290001"  "prov":"新疆"  "city":"阿克苏"  "type":"中国联通 "
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
